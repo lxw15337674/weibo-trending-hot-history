@@ -3,7 +3,7 @@ import { SavedWeibo } from "./type";
 import fs from 'fs/promises';
 
 export function createList(words: SavedWeibo[]): string {
-    const lastUpdateTime = dayjs().format('YYYY-MM-DD h A');
+    const lastUpdateTime = dayjs().format('YYYY-MM-DD h:mm A');
     const listItems = words.map((item, index) => {
         const title = item.title;
         const url = item.url;
