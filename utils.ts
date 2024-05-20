@@ -1,8 +1,9 @@
+import dayjs from "dayjs";
 import { SavedWeibo } from "./type";
 import fs from 'fs/promises';
 
 export function createList(words: SavedWeibo[]): string {
-    const lastUpdateTime = new Date();
+    const lastUpdateTime = dayjs().format('YYYY-MM-DD h A');
     const listItems = words.map((item, index) => {
         const title = item.title;
         const url = item.url;
@@ -14,7 +15,7 @@ export function createList(words: SavedWeibo[]): string {
     return `
 <!-- BEGIN -->
 
-<!-- 最后更新时间 ${lastUpdateTime} -->
+**最后更新时间**：${lastUpdateTime}
 ${listItems.join('\n')}
 
 <!-- END -->
