@@ -1,0 +1,23 @@
+{
+  "name": "weibo-trending-hot-history",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite-node ./index.ts",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "dayjs": "^1.11.11",
+    "lodash": "^4.17.21",
+    "vite-node": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash": "^4.17.4",
+    "serve": "^11.3.2",
+    "typescript": "^5.4.5"
+  },
+  "type": "module"
+}
