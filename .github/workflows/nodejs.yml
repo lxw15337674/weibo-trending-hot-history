@@ -23,15 +23,18 @@ jobs:
         with:
           node-version: "18"
 
+      - name: Install pnpm
+        run: npm install -g pnpm 
+
       - name: Install Dependencies
         run: pnpm install
-        
+
       - name: Scraping
         run: pnpm run start
 
       - name:  and Commit
         run:  bash ./commit.bash
-          
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
