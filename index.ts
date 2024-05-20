@@ -57,7 +57,7 @@ async function saveDayJson(words: SavedWeibo[]) {
   }
   wordsAlreadyDownload.sort((a, b) => b.hot - a.hot)
   await writeFile(fullPath, JSON.stringify(wordsAlreadyDownload, null, 2));
-  createArchive(wordsAlreadyDownload, date)
+  await createArchive(wordsAlreadyDownload, date)
   await createReadme(wordsAlreadyDownload)
 }
 
