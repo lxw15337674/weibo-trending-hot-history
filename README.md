@@ -1,18 +1,18 @@
 # weibo-trending-hot-history
 
-[![Build Status](https://github.com/justjavac/weibo-trending-hot-search/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/weibo-trending-hot-search/actions)
-[![license](https://img.shields.io/github/license/justjavac/weibo-trending-hot-search)](https://github.com/justjavac/weibo-trending-hot-search/blob/master/LICENSE)
+[![Build Status](https://github.com/lxw15337674/weibo-trending-hot-history/workflows/ci/badge.svg?branch=master)](https://github.com/lxw15337674/weibo-trending-hot-history/actions)
+[![license](https://img.shields.io/github/license/lxw15337674/weibo-trending-hot-history)](https://github.com/lxw15337674/weibo-trending-hot-history/blob/master/LICENSE)
 
-微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。
+## 基于 `weibo-trending-hot-search` 实现微博热搜榜，并按热度排序和按小时/天归档
 
-基于[weibo-trending-hot-search](https://github.com/justjavac/zhihu-trending-top-search)，做了一些修改：
+这个项目的目标是基于 `weibo-trending-hot-search` 项目，使用 TypeScript 实现一个微博热搜榜，并实现以下功能：
 
-1. 使用ts代码重构。
-2. 按热度进行排序。
-3. 按小时抓取数据功能。
+1. **数据抓取**: 从 2024 年 5 月 20 日开始，每小时抓取一次微博热门搜索数据。
+2. **热度排序**: 对抓取到的数据按热度进行排序。
+3. **小时归档**: 将数据按小时/田进行归档。
+4. **天总结**: 对每天的热搜数据进行总结归档。
 
 ## 今日热门搜索
-
 
 <!-- BEGIN -->
 
@@ -92,8 +92,3 @@
 
 
 历史归档 [./archives](./archives)
-
-### License
-
-[weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search) 的源码使用 MIT License
-发布。具体内容请查看 [LICENSE](./LICENSE) 文件。
