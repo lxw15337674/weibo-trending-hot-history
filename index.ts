@@ -42,8 +42,8 @@ async function saveDayJson(words: SavedWeibo[]) {
   const fullPath = `./api/${date}/summary.json`;
   await ensureDir(`./api/${date}`);
   let wordsAlreadyDownload: SavedWeibo[] = [];
-  const content =await readFile(fullPath)
-  if(content) {
+  const content = await readFile(fullPath)
+  if (content) {
     wordsAlreadyDownload = JSON.parse(content.toString()) as SavedWeibo[];
   }
   for (let word of words) {
@@ -57,7 +57,8 @@ async function saveDayJson(words: SavedWeibo[]) {
   }
   wordsAlreadyDownload.sort((a, b) => b.hot - a.hot)
   await writeFile(fullPath, JSON.stringify(wordsAlreadyDownload, null, 2));
-  await createArchive(wordsAlreadyDownload, date)
+  const data = await createArchive(wordsAlreadyDownload, date)
+  await writeFile(`./archives/${date}.md`, data);
   await createReadme(wordsAlreadyDownload)
 }
 
