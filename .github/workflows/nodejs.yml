@@ -1,6 +1,9 @@
-name: schedule
+name: scraping
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: "0 * * * *"
 
