@@ -9,5 +9,3 @@ if [ $# -gt 0 ]; then
     msg="实时更新微博热搜 - $1"
 fi
 git commit --allow-empty -m "实时更新微博热搜 - $(now)"
-
-git push
