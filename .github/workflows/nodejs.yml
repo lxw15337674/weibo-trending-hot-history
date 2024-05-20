@@ -24,9 +24,12 @@ jobs:
           node-version: "18"
 
       - name: Install Dependencies
-        run: yarn install
+        run: pnpm install
+        
+      - name: Scraping
+        run: pnpm run start
 
-      - name: Scrape and Commit
+      - name:  and Commit
         run:  bash ./commit.bash
           
       - name: Push changes
