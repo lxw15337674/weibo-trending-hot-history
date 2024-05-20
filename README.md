@@ -1,6 +1,6 @@
 # weibo-trending-hot-history
 
-[![Build Status](https://github.com/lxw15337674/weibo-trending-hot-history/workflows/ci/badge.svg?branch=master)](https://github.com/lxw15337674/weibo-trending-hot-history/actions)
+[![Build Status](https://github.com/lxw15337674/weibo-trending-hot-history/actions/workflows/nodejs.yml/badge.svg)](https://github.com/lxw15337674/weibo-trending-hot-history/actions)
 [![license](https://img.shields.io/github/license/lxw15337674/weibo-trending-hot-history)](https://github.com/lxw15337674/weibo-trending-hot-history/blob/master/LICENSE)
 
 基于 `weibo-trending-hot-search` 实现微博热搜榜，并按热度排序和按小时/天归档
