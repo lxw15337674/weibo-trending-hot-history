@@ -72,7 +72,7 @@ export default async function Hots({ params: { date } }: HotsProps) {
         </Menubar>
       </div>
 
-      <div className="mx-auto flex max-w-[980px] flex-col gap-4 py-4">
+      <div className="mx-auto flex max-w-[980px] flex-col gap-2 py-4">
         {data.map((item) => {
           const url = `https://s.weibo.com/weibo?q=%23${item.title}%23`;
           return (
