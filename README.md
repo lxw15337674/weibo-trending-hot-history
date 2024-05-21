@@ -3,9 +3,8 @@
 [![Build Status](https://github.com/lxw15337674/weibo-trending-hot-history/actions/workflows/nodejs.yml/badge.svg)](https://github.com/lxw15337674/weibo-trending-hot-history/actions)
 [![license](https://img.shields.io/github/license/lxw15337674/weibo-trending-hot-history)](https://github.com/lxw15337674/weibo-trending-hot-history/blob/master/LICENSE)
 
-基于 `weibo-trending-hot-search` 实现微博热搜榜，并按热度排序和按小时/天归档
 
-这个项目的目标是基于 `weibo-trending-hot-search` 项目，使用 TypeScript 实现一个微博热搜榜，并实现以下功能：
+这个项目的目标是基于 [tg-wb-trending](https://github.com/xiadd/tg-wb-trending) 项目，使用 TypeScript 实现一个微博热搜榜，并实现以下功能：
 
 1. **数据抓取**: 从 2024 年 5 月 20 日开始，每小时抓取一次微博热门搜索数据。
 2. **热度排序**: 对抓取到的数据按热度进行排序。
