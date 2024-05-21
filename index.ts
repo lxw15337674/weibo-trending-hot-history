@@ -69,7 +69,7 @@ async function fetchTrendingDetail(title: string): Promise<Detail> {
       count.push(convertToNumber(strongNumber, unitText));
     });
     return {
-      category: $('#pl_topicband dl>dd').first().text(),
+      category: $('#pl_topicband dl>dd').first().text().trim(),
       desc: $('#pl_topicband dl:eq(1)').find('dd:not(.host-row)').last().text(),
       readCount: count[0],
       discussCount: count[1],

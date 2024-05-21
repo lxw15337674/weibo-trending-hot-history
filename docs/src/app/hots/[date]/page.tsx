@@ -45,7 +45,7 @@ async function getData(date: string): Promise<SavedWeibo[]> {
     // `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
     `https://raw.githubusercontent.com/lxw15337674/weibo-trending-hot-history/master/api/${date}/summary.json`,
     {
-      next: { revalidate: 3600 }
+      // next: { revalidate: 3600 }
     }
   );
 
@@ -96,7 +96,7 @@ export default async function Hots({ params: { date } }: HotsProps) {
           return (
             <a
               href={url}
-              key={url}
+              key={item.title}
               target="_blank"
               rel="noopener noreferrer"
             >
