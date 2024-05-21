@@ -10,10 +10,6 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
-type Props = {
-  params: { date: string };
-  searchParams: { [key: string]: string | string[] | undefined };
-};
 interface HotsProps {
   params: { date: string };
 }
@@ -24,19 +20,6 @@ interface Weibo {
   url: string;
   hot: number;
   ads: boolean;
-}
-export async function generateMetadata(
-  { params }: Props,
-): Promise<Metadata> {
-  const date = params.date;
-
-  return {
-    title: `微博热搜榜  ${date}`,
-    description: `微博热搜榜  ${date}`,
-    icons: {
-      'icon': 'https://s.weibo.com/favicon.ico',
-    }
-  };
 }
 
 async function getData(date: string): Promise<Weibo[]> {
