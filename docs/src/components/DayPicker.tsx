@@ -43,7 +43,7 @@ export function DatePicker(props: DatePickerProps) {
                     }}
                     initialFocus
                     disabled={(date) => {
-                        return date > new Date();
+                        return date > new Date()
                     }}
                 />
             </PopoverContent>

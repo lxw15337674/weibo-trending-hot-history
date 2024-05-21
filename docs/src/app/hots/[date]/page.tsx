@@ -62,7 +62,9 @@ export default async function Hots({ params: { date } }: HotsProps) {
                 .subtract(1, 'day')
                 .format('YYYY-MM-DD')}`}
             >
-              <MenubarTrigger className="cursor-pointer">前一天</MenubarTrigger>
+              <MenubarTrigger
+                className="cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
+              >前一天</MenubarTrigger>
             </Link>
           </MenubarMenu>
           <MenubarMenu>
