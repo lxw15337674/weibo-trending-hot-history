@@ -10,7 +10,6 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
-import { Button } from '@/components/ui/button';
 type Props = {
   params: { date: string };
   searchParams: { [key: string]: string | string[] | undefined };
@@ -28,20 +27,24 @@ interface Weibo {
 }
 export async function generateMetadata(
   { params }: Props,
-  parent: ResolvingMetadata,
 ): Promise<Metadata> {
-  // read route params
   const date = params.date;
 
   return {
     title: `微博热搜榜  ${date}`,
     description: `微博热搜榜  ${date}`,
+    icons: {
+      'icon': 'https://s.weibo.com/favicon.ico',
+    }
   };
 }
 
 async function getData(date: string): Promise<Weibo[]> {
   const res = await fetch(
     `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
+    {
+      next: { revalidate: 3600 }
+    }
   );
 
   if (!res.ok) {
@@ -99,18 +102,17 @@ export default async function Hots({ params: { date } }: HotsProps) {
                 <CardHeader>
                   <CardTitle>
                     <div className="flex gap-2">
-                      <h4 className="text-xl ">
+                      <h5 className="text-xl ">
                         {item.title}
-                      </h4>
+                      </h5>
                       <div className="flex gap-2 items-center flex-shrink-0">
                         {item.category && <Badge>{item.category.trim()}</Badge>}
                         {item.ads && <Badge variant="destructive">推广</Badge>}
-                        {item.hot && <Badge variant="outline">🔥 {item.hot}</Badge>}
+                        {<Badge variant="outline">🔥 {item?.hot ?? 0}</Badge>}
                       </div>
                     </div>
                   </CardTitle>
                   <CardDescription>
-                    {" "}
                     {item.description || "没有描述"}
                   </CardDescription>
                 </CardHeader>
