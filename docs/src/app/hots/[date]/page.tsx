@@ -3,12 +3,29 @@ import Link from 'next/link';
 import dayjs from 'dayjs';
 import { Badge } from '@/components/ui/badge';
 import { Menubar, MenubarMenu, MenubarTrigger } from '@/components/ui/menubar';
-
+import {
+  Card,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card"
+import { DatePicker } from '@/components/DayPicker';
+import { Button } from '@/components/ui/button';
 type Props = {
   params: { date: string };
   searchParams: { [key: string]: string | string[] | undefined };
 };
-
+interface HotsProps {
+  params: { date: string };
+}
+interface Weibo {
+  title: string;
+  category: string;
+  description: string;
+  url: string;
+  hot: number;
+  ads: boolean;
+}
 export async function generateMetadata(
   { params }: Props,
   parent: ResolvingMetadata,
@@ -17,24 +34,23 @@ export async function generateMetadata(
   const date = params.date;
 
   return {
-    title: `微博热搜榜 - ${date}`,
-    description: `微博热搜榜 - ${date}`,
+    title: `微博热搜榜  ${date}`,
+    description: `微博热搜榜  ${date}`,
   };
 }
 
-async function getData(date: string) {
+async function getData(date: string): Promise<Weibo[]> {
   const res = await fetch(
-    `https://cdn.jsdelivr.net/gh/xiadd/tg-wb-trending@master/api/${date}.json`,
+    `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
   );
 
   if (!res.ok) {
     return [];
   }
-
-  return res.json();
+  return res.json()
 }
 
-export default async function Hots({ params: { date } }: any) {
+export default async function Hots({ params: { date } }: HotsProps) {
   const data = await getData(date || dayjs().format('YYYY-MM-DD'));
   return (
     <main className="p-5 lg:p-0 lg:pt-5">
@@ -49,49 +65,56 @@ export default async function Hots({ params: { date } }: any) {
               <MenubarTrigger className="cursor-pointer">前一天</MenubarTrigger>
             </Link>
           </MenubarMenu>
-
           <MenubarMenu>
-            <MenubarTrigger className="cursor-pointer">{`${date} 共计 ${data.length} 条热搜`}</MenubarTrigger>
+            <DatePicker value={date} />
           </MenubarMenu>
-
-          {!dayjs(date).isSame(dayjs().startOf('day')) ? (
-            <MenubarMenu>
-              <Link
-                href={`/hots/${dayjs(date).add(1, 'day').format('YYYY-MM-DD')}`}
+          <MenubarMenu>
+            <Link
+              href={`/hots/${dayjs(date).add(1, 'day').format('YYYY-MM-DD')}`}
+            >
+              <MenubarTrigger className="cursor-pointer"
+                disabled={!dayjs(date).isSame(dayjs().startOf('day'))}
               >
-                <MenubarTrigger className="cursor-pointer">
-                  后一天
-                </MenubarTrigger>
-              </Link>
-            </MenubarMenu>
-          ) : (
-            <span></span>
-          )}
+                后一天
+              </MenubarTrigger>
+            </Link>
+          </MenubarMenu>
         </Menubar>
       </div>
 
-      <div className="mx-auto flex max-w-[980px] flex-col gap-4 py-8">
-        {data.map((item: any) => (
-          <a
-            key={item.url}
-            href={item.url}
-            target="_blank"
-            rel="noreferrer"
-            className="block w-full cursor-pointer p-6 bg-white border border-gray-200 rounded-lg shadow-sm hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
-          >
-            <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white flex flex-col justify-center md:justify-start md:flex-row md:items-center gap-2">
-              {item.title}{' '}
-              <div className="flex gap-2 items-center">
-                {item.category && <Badge>{item.category.trim()}</Badge>}
-                {item.ads && <Badge variant="destructive">推广</Badge>}
-                {item.hot && <Badge variant="outline">🔥 {item.hot}</Badge>}
-              </div>
-            </h5>
-            <p className="font-normal text-gray-700 dark:text-gray-400">
-              {item.description || '没有描述'}
-            </p>
-          </a>
-        ))}
+      <div className="mx-auto flex max-w-[980px] flex-col gap-4 py-4">
+        {data.map((item) => {
+          const url = `https://s.weibo.com/weibo?q=%23${item.title}%23`;
+          return (
+            <a
+              href={url}
+              key={url}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Card className="cursor-pointer hover:bg-muted/50">
+                <CardHeader>
+                  <CardTitle>
+                    <div className="flex gap-2">
+                      <h4 className="text-xl ">
+                        {item.title}
+                      </h4>
+                      <div className="flex gap-2 items-center flex-shrink-0">
+                        {item.category && <Badge>{item.category.trim()}</Badge>}
+                        {item.ads && <Badge variant="destructive">推广</Badge>}
+                        {item.hot && <Badge variant="outline">🔥 {item.hot}</Badge>}
+                      </div>
+                    </div>
+                  </CardTitle>
+                  <CardDescription>
+                    {" "}
+                    {item.description || "没有描述"}
+                  </CardDescription>
+                </CardHeader>
+              </Card>
+            </a>
+          );
+        })}
       </div>
     </main>
   );

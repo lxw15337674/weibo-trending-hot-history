@@ -1,7 +1,9 @@
 import type { Metadata } from 'next';
-import { Analytics } from '@vercel/analytics/react';
 import { Inter } from 'next/font/google';
 import './globals.css';
+import { ThemeProvider } from "@/components/theme-provider"
+import { ModeToggle } from '@/components/ModeToggle';
+import { SiteHeader } from '@/components/header';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -16,9 +18,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body className={inter.className}>
-        {children} <Analytics />
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <SiteHeader/>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );
