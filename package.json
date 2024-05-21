@@ -10,6 +10,7 @@
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
     "dayjs": "^1.11.11",
+    "decimal.js": "^10.4.3",
     "lodash": "^4.17.21",
     "vite-node": "^1.6.0"
   },

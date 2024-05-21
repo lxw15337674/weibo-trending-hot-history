@@ -1,6 +1,7 @@
 import dayjs from "dayjs";
 import { SavedWeibo } from "./type";
 import fs from 'fs/promises';
+import { Decimal } from 'decimal.js';
 
 export function createList(words: SavedWeibo[]): string {
     const lastUpdateTime = dayjs().format('YYYY-MM-DD h:mm A');
@@ -67,11 +68,12 @@ export const readFile = async (path: string) => {
 
 
 export function convertToNumber(val: number, unit: string): number {
+    const decimalVal = new Decimal(val);
     if (unit.includes('万')) {
-        return val * 10000;
+        return decimalVal.mul(10000).toNumber();
     } else if (unit.includes('亿')) {
-        return val * 100000000;
+        return decimalVal.mul(100000000).toNumber();
     } else {
-        return val ?? 0;
+        return decimalVal.toNumber();
     }
 }
