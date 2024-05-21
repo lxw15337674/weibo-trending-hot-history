@@ -2,7 +2,7 @@ import util from 'util';
 import dayjs from 'dayjs';
 import * as cheerio from 'cheerio';
 import _ from 'lodash';
-import { createArchive, createList, ensureDir, readFile, writeFile } from './utils';
+import { convertToNumber, createArchive, createList, ensureDir, readFile, writeFile } from './utils';
 import { Detail, SavedWeibo, WeiboItem } from './type';
 
 const TRENDING_URL =
@@ -41,9 +41,9 @@ async function saveDayJson(words: SavedWeibo[]) {
     if (index !== -1) {
       const oldWord = wordsAlreadyDownload[index]
       oldWord.hot = Math.max(word.hot, oldWord.hot)
-      oldWord.origin =Math.max(word?.origin??0, oldWord?.origin??0)
-      oldWord.readCount = Math.max(word?.readCount??0, oldWord?.readCount??0)
-      oldWord.discussCount = Math.max(word?.discussCount??0, oldWord?.discussCount??0)
+      oldWord.origin = Math.max(word?.origin ?? 0, oldWord?.origin ?? 0)
+      oldWord.readCount = Math.max(word?.readCount ?? 0, oldWord?.readCount ?? 0)
+      oldWord.discussCount = Math.max(word?.discussCount ?? 0, oldWord?.discussCount ?? 0)
     } else {
       wordsAlreadyDownload.push(word)
     }
@@ -60,13 +60,20 @@ async function fetchTrendingDetail(title: string): Promise<Detail> {
     const res = await fetch(util.format(TRENDING_DETAIL_URL, title));
     const data = await res.text();
     const $ = cheerio.load(data);
-    const strongs = $('strong');
+    const count: number[] = [];
+
+    $('div.g-list-a.data ul li').each(function () {
+      const strongText = $(this).find('strong').text();
+      const unitText = $(this).text().replace(strongText, '').trim();
+      const strongNumber = Number(strongText.replace(/,/g, ''));
+      count.push(convertToNumber(strongNumber, unitText));
+    });
     return {
       category: $('#pl_topicband dl>dd').first().text(),
       desc: $('#pl_topicband dl:eq(1)').find('dd:not(.host-row)').last().text(),
-      readCount: extractNumbers(strongs.eq(0).text()),
-      discussCount: extractNumbers(strongs.eq(1).text()),
-      origin: extractNumbers(strongs.eq(2).text()),
+      readCount: count[0],
+      discussCount: count[1],
+      origin: count[2],
     };
   } catch {
     return {};

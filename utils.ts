@@ -64,3 +64,14 @@ export const readFile = async (path: string) => {
         }
     }
 };
+
+
+export function convertToNumber(val: number, unit: string): number {
+    if (unit.includes('万')) {
+        return val * 10000;
+    } else if (unit.includes('亿')) {
+        return val * 100000000;
+    } else {
+        return val ?? 0;
+    }
+}
