@@ -21,6 +21,20 @@ interface Weibo {
   hot: number;
   ads: boolean;
 }
+type Props = {
+  params: { date: string };
+  searchParams: { [key: string]: string | string[] | undefined };
+};
+export async function generateMetadata(
+  { params }: Props,
+): Promise<Metadata> {
+  const date = params.date;
+
+  return {
+    title: `微博热搜榜  ${date}`,
+    description: `微博热搜榜  ${date}`,
+  };
+}
 
 async function getData(date: string): Promise<Weibo[]> {
   const res = await fetch(

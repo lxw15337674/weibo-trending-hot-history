@@ -15,8 +15,8 @@ export async function generateMetadata(
   const date = params.date;
 
   return {
-    title: `微博热搜榜  ${date}`,
-    description: `微博热搜榜  ${date}`,
+    title: `微博热搜榜`,
+    description: `微博热搜榜`,
     icons: {
       'icon': 'https://s.weibo.com/favicon.ico',
     }
