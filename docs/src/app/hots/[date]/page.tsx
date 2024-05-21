@@ -41,7 +41,8 @@ export async function generateMetadata(
 
 async function getData(date: string): Promise<Weibo[]> {
   const res = await fetch(
-    `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
+    // `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
+    `https://raw.githubusercontent.com/lxw15337674/weibo-trending-hot-history/master/api/${date}/summary.json`,
     {
       next: { revalidate: 3600 }
     }
