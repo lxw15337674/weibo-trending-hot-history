@@ -3,7 +3,7 @@ import dayjs from 'dayjs';
 import * as cheerio from 'cheerio';
 import _ from 'lodash';
 import { createArchive, createList, ensureDir, readFile, writeFile } from './utils';
-import { SavedWeibo } from './type';
+import { Detail, SavedWeibo, WeiboItem } from './type';
 
 const TRENDING_URL =
   'https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot';
@@ -16,15 +16,6 @@ function extractNumbers(str?: string | number): number {
   return parseInt(str?.replace(/[^0-9]/g, ''), 10) || 0;
 }
 let RETRY_TIME = 5;
-
-interface WeiboItem {
-  desc: string;
-  desc_extr: string;
-  scheme: string;
-  category: string;
-  description: string;
-  promotion: any;
-}
 
 async function saveHourlyJson(words: SavedWeibo[]) {
   const date = dayjs().format('YYYY-MM-DD');
@@ -49,7 +40,10 @@ async function saveDayJson(words: SavedWeibo[]) {
     const index = wordsAlreadyDownload.findIndex(o => o.title === word.title)
     if (index !== -1) {
       const oldWord = wordsAlreadyDownload[index]
-      oldWord.hot = word.hot > oldWord.hot ? word.hot : oldWord.hot
+      oldWord.hot = Math.max(word.hot, oldWord.hot)
+      oldWord.origin =Math.max(word?.origin??0, oldWord?.origin??0)
+      oldWord.readCount = Math.max(word?.readCount??0, oldWord?.readCount??0)
+      oldWord.discussCount = Math.max(word?.discussCount??0, oldWord?.discussCount??0)
     } else {
       wordsAlreadyDownload.push(word)
     }
@@ -61,14 +55,18 @@ async function saveDayJson(words: SavedWeibo[]) {
   await createReadme(wordsAlreadyDownload)
 }
 
-async function fetchTrendingDetail(title: string): Promise<{ category?: string; desc?: string }> {
+async function fetchTrendingDetail(title: string): Promise<Detail> {
   try {
     const res = await fetch(util.format(TRENDING_DETAIL_URL, title));
     const data = await res.text();
     const $ = cheerio.load(data);
+    const strongs = $('strong');
     return {
       category: $('#pl_topicband dl>dd').first().text(),
       desc: $('#pl_topicband dl:eq(1)').find('dd:not(.host-row)').last().text(),
+      readCount: extractNumbers(strongs.eq(0).text()),
+      discussCount: extractNumbers(strongs.eq(1).text()),
+      origin: extractNumbers(strongs.eq(2).text()),
     };
   } catch {
     return {};
@@ -89,21 +87,22 @@ async function bootstrap() {
       if (data.ok === 1) {
         const items = data.data.cards[0]?.card_group;
         if (items) {
-          for (let item of items) {
-            const { category, desc } = await fetchTrendingDetail(
-              encodeURIComponent(item.desc),
-            );
-            item.category = category || item.category;
-            item.description = desc || item.description;
-          }
-          const words = items.map((o) => ({
-            title: o.desc,
-            category: o.category,
-            description: o.description,
-            url: o.scheme,
-            hot: extractNumbers(o.desc_extr),
-            ads: !!o.promotion,
-          }));
+          const words = await Promise.all(
+            items.map(async (item) => {
+              const detail = await fetchTrendingDetail(encodeURIComponent(item.desc));
+              return {
+                title: item.desc,
+                category: detail.category || item.category,
+                description: detail.desc || item.description,
+                url: item.scheme,
+                hot: extractNumbers(item.desc_extr),
+                ads: !!item.promotion,
+                readCount: detail.readCount,
+                discussCount: detail.discussCount,
+                origin: detail.origin,
+              };
+            })
+          );
           await Promise.all([saveHourlyJson(words), saveDayJson(words)]);
         }
       }

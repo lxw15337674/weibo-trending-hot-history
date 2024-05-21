@@ -13,14 +13,7 @@ import { DatePicker } from '@/components/DayPicker';
 interface HotsProps {
   params: { date: string };
 }
-interface Weibo {
-  title: string;
-  category: string;
-  description: string;
-  url: string;
-  hot: number;
-  ads: boolean;
-}
+
 type Props = {
   params: { date: string };
   searchParams: { [key: string]: string | string[] | undefined };
@@ -36,7 +29,18 @@ export async function generateMetadata(
   };
 }
 
-async function getData(date: string): Promise<Weibo[]> {
+ interface SavedWeibo {
+  title: string;
+  category: string;
+  description: string;
+  url: string;
+  hot: number;
+  ads: boolean;
+  readCount?: number;
+  discussCount?: number;
+  origin?: number;
+}
+async function getData(date: string): Promise<SavedWeibo[]> {
   const res = await fetch(
     // `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
     `https://raw.githubusercontent.com/lxw15337674/weibo-trending-hot-history/master/api/${date}/summary.json`,
@@ -107,6 +111,9 @@ export default async function Hots({ params: { date } }: HotsProps) {
                         {item.category && <Badge>{item.category.trim()}</Badge>}
                         {item.ads && <Badge variant="destructive">推广</Badge>}
                         {<Badge variant="outline">🔥 {item?.hot ?? 0}</Badge>}
+                        {item.readCount && <Badge variant="outline">阅读 {item.readCount}</Badge>}
+                        {item.discussCount && <Badge variant="outline">讨论 {item.discussCount}</Badge>}
+                        {item.origin && <Badge variant="outline">原创 {item.origin}</Badge>}
                       </div>
                     </div>
                   </CardTitle>
