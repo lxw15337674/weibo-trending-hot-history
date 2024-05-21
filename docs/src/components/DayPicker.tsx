@@ -39,7 +39,9 @@ export function DatePicker(props: DatePickerProps) {
                     mode="single"
                     selected={date}
                     onSelect={(date)=>{
+                        if(date){
                         router.push(`/hots/${format(date, "yyyy-MM-dd")}`)
+                        }
                     }}
                     initialFocus
                     disabled={(date) => {
