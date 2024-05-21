@@ -68,12 +68,13 @@ export default async function Hots({ params: { date } }: HotsProps) {
           <MenubarMenu>
             <DatePicker value={date} />
           </MenubarMenu>
-          <MenubarMenu>
+          <MenubarMenu >
             <Link
               href={`/hots/${dayjs(date).add(1, 'day').format('YYYY-MM-DD')}`}
             >
-              <MenubarTrigger className="cursor-pointer"
-                disabled={!dayjs(date).isSame(dayjs().startOf('day'))}
+              <MenubarTrigger
+                className="cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
+                disabled={dayjs(date).isAfter(dayjs().subtract(1, 'day'))}
               >
                 后一天
               </MenubarTrigger>
