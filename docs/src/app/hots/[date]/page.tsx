@@ -10,6 +10,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
+import { numberWithUnit } from '@/lib/utils';
 interface HotsProps {
   params: { date: string };
   searchParams: { sort: string };
@@ -106,10 +107,10 @@ export default async function Hots({ params: { date }, searchParams: { sort = 'h
                       <div className="flex gap-2 items-center flex-shrink-0 flex-wrap max-w-[60%]">
                         {item.category && <Badge>{item.category.trim()}</Badge>}
                         {item.ads && <Badge variant="destructive">推广</Badge>}
-                        <Badge variant="outline">🔥 {item?.hot ?? 0}</Badge>
-                        {item.readCount && <Badge variant="outline">阅读 {item.readCount}</Badge>}
-                        {item.discussCount && <Badge variant="outline">讨论 {item.discussCount}</Badge>}
-                        {item.origin && <Badge variant="outline">原创 {item.origin}</Badge>}
+                        <Badge variant="outline">🔥 {numberWithUnit(item?.hot ?? 0)}</Badge>
+                        {item.readCount && <Badge variant="outline">阅读 {numberWithUnit(item.readCount)}</Badge>}
+                        {item.discussCount && <Badge variant="outline">讨论 {numberWithUnit(item.discussCount)}</Badge>}
+                        {item.origin && <Badge variant="outline">原创 {numberWithUnit(item.origin)}</Badge>}
                       </div>
                     </div>
                   </CardTitle>
