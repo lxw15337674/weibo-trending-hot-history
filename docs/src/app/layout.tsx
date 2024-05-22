@@ -5,14 +5,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { SiteHeader } from '@/components/SiteHeader';
 
 const inter = Inter({ subsets: ['latin'] });
-type Props = {
-  params: { date: string };
-  searchParams: { [key: string]: string | string[] | undefined };
-};
-export async function generateMetadata(
-  { params }: Props,
-): Promise<Metadata> {
-  const date = params.date;
+
+export async function generateMetadata(): Promise<Metadata> {
 
   return {
     title: `微博热搜榜`,
