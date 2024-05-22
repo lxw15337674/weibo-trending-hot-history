@@ -16,6 +16,7 @@ import { useRouter } from "next/navigation"
 
 interface DatePickerProps {
     value: string
+    sort: string
 }
 export function DatePicker(props: DatePickerProps) {
     const date = new Date(props.value)
@@ -38,9 +39,10 @@ export function DatePicker(props: DatePickerProps) {
                 <Calendar
                     mode="single"
                     selected={date}
-                    onSelect={(date)=>{
-                        if(date){
-                        router.push(`/hots/${format(date, "yyyy-MM-dd")}`)
+                    onSelect={(date) => {
+                        if (date) {
+                            // 跳转到新的 URL
+                            router.push(`/hots/${format(date, 'yyyy-MM-dd')}?sort=${props.sort}`)
                         }
                     }}
                     initialFocus

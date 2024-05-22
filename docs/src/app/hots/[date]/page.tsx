@@ -10,7 +10,6 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
-import { Suspense } from 'react';
 interface HotsProps {
   params: { date: string };
   searchParams: { sort: string };
@@ -62,7 +61,7 @@ export default async function Hots({ params: { date }, searchParams: { sort = 'h
             <Link
               href={`/hots/${dayjs(date)
                 .subtract(1, 'day')
-                .format('YYYY-MM-DD')}`}
+                .format('YYYY-MM-DD')}?sort=${sort}`}
             >
               <MenubarTrigger
                 className="cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
@@ -70,11 +69,11 @@ export default async function Hots({ params: { date }, searchParams: { sort = 'h
             </Link>
           </MenubarMenu>
           <MenubarMenu>
-            <DatePicker value={date} />
+            <DatePicker value={date} sort={sort} />
           </MenubarMenu>
           <MenubarMenu >
             <Link
-              href={`/hots/${dayjs(date).add(1, 'day').format('YYYY-MM-DD')}`}
+              href={`/hots/${dayjs(date).add(1, 'day').format('YYYY-MM-DD')}?sort=${sort}`}
             >
               <MenubarTrigger
                 className="cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed"
