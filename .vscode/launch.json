@@ -13,6 +13,24 @@
                 "vite-node",
                 "${workspaceFolder}/index.ts"
             ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug web",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "runtimeExecutable": "npx",
+            "runtimeArgs": [
+                "pnpm",
+                "dev"
+            ],
+            "cwd": "${workspaceFolder}/docs", // 确保工作目录指向正确的路径
+            "outFiles": [
+                "${workspaceFolder}/dist/**/*.js"
+            ],
+            "sourceMaps": true
         }
     ]
 }

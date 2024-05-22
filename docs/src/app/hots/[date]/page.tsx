@@ -1,4 +1,4 @@
-import type { Metadata, ResolvingMetadata } from 'next';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import dayjs from 'dayjs';
 import { Badge } from '@/components/ui/badge';
@@ -12,24 +12,20 @@ import {
 import { DatePicker } from '@/components/DayPicker';
 interface HotsProps {
   params: { date: string };
+  searchParams: { sort: string };
 }
 
-type Props = {
-  params: { date: string };
-  searchParams: { [key: string]: string | string[] | undefined };
-};
 export async function generateMetadata(
-  { params }: Props,
+  { params }: HotsProps,
 ): Promise<Metadata> {
   const date = params.date;
-
   return {
     title: `微博热搜榜  ${date}`,
     description: `微博热搜榜  ${date}`,
   };
 }
 
- interface SavedWeibo {
+interface SavedWeibo {
   title: string;
   category: string;
   description: string;
@@ -55,7 +51,7 @@ async function getData(date: string): Promise<SavedWeibo[]> {
   return res.json()
 }
 
-export default async function Hots({ params: { date } }: HotsProps) {
+export default async function Hots({ params: { date }, searchParams: { sort = 'hot' } }: HotsProps) {
   const data = await getData(date || dayjs().format('YYYY-MM-DD'));
   return (
     <main className="p-5 lg:p-0 lg:pt-5">
@@ -91,7 +87,7 @@ export default async function Hots({ params: { date } }: HotsProps) {
       </div>
 
       <div className="mx-auto flex max-w-[980px] flex-col gap-2 py-4">
-        {data.map((item) => {
+        {data.sort((a, b) => (Number(b[sort as keyof SavedWeibo]) ?? 0) - (Number(a[sort as keyof SavedWeibo]) ?? 0)).map((item: SavedWeibo) => {
           const url = `https://s.weibo.com/weibo?q=%23${item.title}%23`;
           return (
             <a
@@ -107,10 +103,10 @@ export default async function Hots({ params: { date } }: HotsProps) {
                       <h5 className="text-xl ">
                         {item.title}
                       </h5>
-                      <div className="flex gap-2 items-center flex-shrink-0">
+                      <div className="flex gap-2 items-center flex-shrink-0 flex-wrap max-w-[60%]">
                         {item.category && <Badge>{item.category.trim()}</Badge>}
                         {item.ads && <Badge variant="destructive">推广</Badge>}
-                        {<Badge variant="outline">🔥 {item?.hot ?? 0}</Badge>}
+                        <Badge variant="outline">🔥 {item?.hot ?? 0}</Badge>
                         {item.readCount && <Badge variant="outline">阅读 {item.readCount}</Badge>}
                         {item.discussCount && <Badge variant="outline">讨论 {item.discussCount}</Badge>}
                         {item.origin && <Badge variant="outline">原创 {item.origin}</Badge>}

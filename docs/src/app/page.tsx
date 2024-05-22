@@ -1,6 +1,6 @@
 import dayjs from 'dayjs';
-import { redirect } from 'next/navigation';
+import { permanentRedirect } from 'next/navigation';
 
 export default function Page() {
-  redirect(`/hots/${dayjs().format('YYYY-MM-DD')}`);
+  permanentRedirect(`/hots/${dayjs().format('YYYY-MM-DD')}`);
 }
