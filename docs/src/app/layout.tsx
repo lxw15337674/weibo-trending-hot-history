@@ -18,7 +18,7 @@ export async function generateMetadata(
     title: `微博热搜榜`,
     description: `微博热搜榜`,
     icons: {
-      'icon': 'https://s.weibo.com/favicon.ico',
+      'icon': 'https://img.icons8.com/stickers/100/000000/weibo.png',
     }
   };
 }
