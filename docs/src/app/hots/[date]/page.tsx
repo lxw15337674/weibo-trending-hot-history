@@ -10,6 +10,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
+import { Suspense } from 'react';
 interface HotsProps {
   params: { date: string };
   searchParams: { sort: string };

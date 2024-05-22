@@ -1,6 +1,5 @@
 'use client'
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { ModeToggle } from "./ModeToggle"
 import {
     Select,
     SelectContent,
@@ -10,6 +9,8 @@ import {
     SelectTrigger,
     SelectValue,
 } from "@/components/ui/select"
+import { ModeToggle } from "./ModeToggle";
+import { Suspense } from "react";
 //    {item.category && <Badge>{item.category.trim()}</Badge>}
 // { item.ads && <Badge variant="destructive">推广</Badge> }
 // { <Badge variant="outline">🔥 {item?.hot ?? 0}</Badge> }
@@ -34,7 +35,7 @@ const sortConfig = [
         value: "origin"
     },
 ]
-export function SiteHeader() {
+export function SiteHeaderContent() {
     const pathname = usePathname()
     const router = useRouter();
     const params = useSearchParams();
@@ -70,4 +71,11 @@ export function SiteHeader() {
             </div>
         </header>
     )
+}
+export function SiteHeader() {
+    return (
+        <Suspense fallback={<div>加载中...</div>}>
+            <SiteHeaderContent />
+        </Suspense>
+    );
 }
