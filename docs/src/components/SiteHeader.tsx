@@ -11,12 +11,9 @@ import {
 } from "@/components/ui/select"
 import { ModeToggle } from "./ModeToggle";
 import { Suspense } from "react";
-//    {item.category && <Badge>{item.category.trim()}</Badge>}
-// { item.ads && <Badge variant="destructive">推广</Badge> }
-// { <Badge variant="outline">🔥 {item?.hot ?? 0}</Badge> }
-// { item.readCount && <Badge variant="outline">阅读 {item.readCount}</Badge> }
-// { item.discussCount && <Badge variant="outline">讨论 {item.discussCount}</Badge> }
-// { item.origin && <Badge variant="outline">原创 {item.origin}</Badge> }
+import { Github } from "lucide-react";
+import { Button } from "./ui/button";
+
 const sortConfig = [
     {
         label: "热度",
@@ -64,8 +61,13 @@ export function SiteHeaderContent() {
                     </Select>
                 </div>
                 <div className="flex flex-1 items-center  space-x-2 justify-end">
-                    <nav className="flex items-center">
+                    <nav className="flex items-center space-x-4">
                         <ModeToggle />
+                        <Button variant="outline" size="icon" onClick={()=>{
+                            window.open('https://github.com/lxw15337674/weibo-trending-hot-history')
+                        }}>
+                            <Github />
+                        </Button>
                     </nav>
                 </div>
             </div>
