@@ -41,8 +41,9 @@ async function getData(date: string): Promise<SavedWeibo[]> {
   const res = await fetch(
     // `https://cdn.jsdelivr.net/gh/lxw15337674/weibo-trending-hot-history@master/api/${date}/summary.json`,
     `https://raw.githubusercontent.com/lxw15337674/weibo-trending-hot-history/master/api/${date}/summary.json`,
-  );
-
+    {
+      next: { revalidate: 60 }
+    })
   if (!res.ok) {
     return [];
   }
