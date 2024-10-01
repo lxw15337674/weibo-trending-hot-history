@@ -16,8 +16,8 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%BA%86%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%A5%9D%E7%A6%8F%E6%96%B0%E4%B8%AD%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%259B%25BD%25E5%25BA%2586%25E4%25B8%2580%25E4%25BA%25BA%25E4%25B8%2580%25E5%258F%25A5%25E7%25A5%259D%25E7%25A6%258F%25E6%2596%25B0%25E4%25B8%25AD%25E5%259B%25BD%2523%26flag%3D1%26stream_entry_id%3D31%26pos%3D1%26band_rank%3D2%26realpos%3D2%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1727747851%26pre_seqid%3D17277478511130118302059",
     "hot": 1318454,
     "ads": false,
-    "readCount": 160000000,
-    "discussCount": 11012000,
+    "readCount": 170000000,
+    "discussCount": 11306000,
     "origin": 11000
   },
   {
@@ -49,8 +49,8 @@
     "hot": 1280191,
     "ads": false,
     "readCount": 220000000,
-    "discussCount": 318000,
-    "origin": 29000
+    "discussCount": 321000,
+    "origin": 30000
   },
   {
     "title": "人人人人人你人人人人人",
@@ -58,9 +58,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BD%A0%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26q%3D%2523%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BD%25A0%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BA%25BA%25E4%25BA%25BA%2523%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D8%26band_rank%3D8%26c_type%3D31%26display_time%3D1727756932%26pre_seqid%3D172775693289101170649155",
     "hot": 1225737,
     "ads": false,
-    "readCount": 1350000000,
-    "discussCount": 265000,
-    "origin": 27000
+    "readCount": 1360000000,
+    "discussCount": 270000,
+    "origin": 28000
   },
   {
     "title": "洲际导弹",
@@ -81,6 +81,16 @@
     "readCount": 5270000000,
     "discussCount": 12888000,
     "origin": 404000
+  },
+  {
+    "title": "志愿军",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BF%97%E6%84%BF%E5%86%9B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26lcate%3D5001%26pos%3D9%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D10%26cate%3D5001%26q%3D%25E5%25BF%2597%25E6%2584%25BF%25E5%2586%259B%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
+    "hot": 1120514,
+    "ads": false,
+    "readCount": 72910000,
+    "discussCount": 79000,
+    "origin": 8649
   },
   {
     "title": "我的身份证上有你的名字",
@@ -142,9 +152,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B75%E5%91%A8%E5%B9%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E5%258D%258E%25E4%25BA%25BA%25E6%25B0%2591%25E5%2585%25B1%25E5%2592%258C%25E5%259B%25BD%25E6%2588%2590%25E7%25AB%258B75%25E5%2591%25A8%25E5%25B9%25B4%2523%26dgr%3D0%26realpos%3D3%26pos%3D2%26c_type%3D31%26stream_entry_id%3D31%26band_rank%3D3%26flag%3D0%26cate%3D5001%26display_time%3D1727767396%26pre_seqid%3D17277673968690116020451",
     "hot": 696805,
     "ads": false,
-    "readCount": 610000000,
-    "discussCount": 16318000,
-    "origin": 14000
+    "readCount": 630000000,
+    "discussCount": 16704000,
+    "origin": 15000
   },
   {
     "title": "石破茂当选日本首相",
@@ -152,9 +162,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E7%259F%25B3%25E7%25A0%25B4%25E8%258C%2582%25E5%25BD%2593%25E9%2580%2589%25E6%2597%25A5%25E6%259C%25AC%25E9%25A6%2596%25E7%259B%25B8%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26pos%3D10%26lcate%3D5001%26cate%3D5001%26band_rank%3D10%26display_time%3D1727764456%26pre_seqid%3D172776445638201171387121",
     "hot": 693737,
     "ads": false,
-    "readCount": 35184000,
-    "discussCount": 3230,
-    "origin": 461
+    "readCount": 40422000,
+    "discussCount": 3808,
+    "origin": 506
   },
   {
     "title": "孙颖莎3比1蒯曼",
@@ -205,9 +215,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8B%8D%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E6%97%B6%E6%91%84%E5%BD%B1%E5%B8%88%E8%A2%AB%E6%80%BB%E7%90%86%E7%B4%A7%E7%B4%A7%E6%8A%93%E4%BD%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%258B%258D%25E5%25BC%2580%25E5%259B%25BD%25E5%25A4%25A7%25E5%2585%25B8%25E6%2597%25B6%25E6%2591%2584%25E5%25BD%25B1%25E5%25B8%2588%25E8%25A2%25AB%25E6%2580%25BB%25E7%2590%2586%25E7%25B4%25A7%25E7%25B4%25A7%25E6%258A%2593%25E4%25BD%258F%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D2%26realpos%3D2%26lcate%3D5001%26pos%3D1%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
     "hot": 583515,
     "ads": false,
-    "readCount": 5487000,
-    "discussCount": 278,
-    "origin": 44
+    "readCount": 35042000,
+    "discussCount": 616,
+    "origin": 97
   },
   {
     "title": "电影志愿军存亡之战",
@@ -339,14 +349,25 @@
     "origin": 30000
   },
   {
+    "title": "国庆氛围感还得看中国红",
+    "category": "财经",
+    "description": "迎国庆，全国各地满眼皆是最爱的那一抹“中国红”！它是日出的一抹“胭脂”，是丰收满屏的“枣红”，是百花齐放的“品红”，是山河壮阔的“珊瑚”……",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%BF%98%E5%BE%97%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D3%26c_type%3D31%26lcate%3D5001%26pos%3D2%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D3%26cate%3D5001%26q%3D%2523%25E5%259B%25BD%25E5%25BA%2586%25E6%25B0%259B%25E5%259B%25B4%25E6%2584%259F%25E8%25BF%2598%25E5%25BE%2597%25E7%259C%258B%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BA%25A2%2523%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
+    "hot": 440670,
+    "ads": false,
+    "readCount": 9986000,
+    "discussCount": 3185,
+    "origin": 749
+  },
+  {
     "title": "新闻联播里的伊能静",
     "category": "明星",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E9%87%8C%E7%9A%84%E4%BC%8A%E8%83%BD%E9%9D%99%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D42%26q%3D%2523%25E6%2596%25B0%25E9%2597%25BB%25E8%2581%2594%25E6%2592%25AD%25E9%2587%258C%25E7%259A%2584%25E4%25BC%258A%25E8%2583%25BD%25E9%259D%2599%2523%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D42%26band_rank%3D42%26c_type%3D31%26display_time%3D1727756932%26pre_seqid%3D172775693289101170649155",
     "hot": 440113,
     "ads": false,
-    "readCount": 89528000,
-    "discussCount": 4744,
-    "origin": 895
+    "readCount": 96091000,
+    "discussCount": 4980,
+    "origin": 918
   },
   {
     "title": "美俄战机空中交锋",
@@ -365,30 +386,19 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%99%86%E5%B7%9D+%E6%8A%93%E5%A8%83%E5%A8%83&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26q%3D%25E9%2599%2586%25E5%25B7%259D%2520%25E6%258A%2593%25E5%25A8%2583%25E5%25A8%2583%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26pos%3D13%26lcate%3D5001%26cate%3D5001%26band_rank%3D13%26display_time%3D1727764456%26pre_seqid%3D172776445638201171387121",
     "hot": 439186,
     "ads": false,
-    "readCount": 23949000,
-    "discussCount": 5148,
-    "origin": 1656
-  },
-  {
-    "title": "国庆氛围感还得看中国红",
-    "category": "财经",
-    "description": "迎国庆，全国各地满眼皆是最爱的那一抹“中国红”！它是日出的一抹“胭脂”，是丰收满屏的“枣红”，是百花齐放的“品红”，是山河壮阔的“珊瑚”……",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%BF%98%E5%BE%97%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D3%26c_type%3D31%26lcate%3D5001%26pos%3D2%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D3%26cate%3D5001%26q%3D%2523%25E5%259B%25BD%25E5%25BA%2586%25E6%25B0%259B%25E5%259B%25B4%25E6%2584%259F%25E8%25BF%2598%25E5%25BE%2597%25E7%259C%258B%25E4%25B8%25AD%25E5%259B%25BD%25E7%25BA%25A2%2523%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
-    "hot": 435406,
-    "ads": false,
-    "readCount": 6976000,
-    "discussCount": 1850,
-    "origin": 572
+    "readCount": 25757000,
+    "discussCount": 5603,
+    "origin": 1707
   },
   {
     "title": "749局特效",
     "category": "电影",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D749%E5%B1%80%E7%89%B9%E6%95%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D9%26c_type%3D31%26lcate%3D5001%26pos%3D8%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D9%26cate%3D5001%26q%3D749%25E5%25B1%2580%25E7%2589%25B9%25E6%2595%2588%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
-    "hot": 434606,
+    "hot": 438993,
     "ads": false,
-    "readCount": 12841000,
-    "discussCount": 10000,
-    "origin": 3684
+    "readCount": 17840000,
+    "discussCount": 14000,
+    "origin": 4759
   },
   {
     "title": "光遇",
@@ -406,9 +416,20 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF%E7%A5%A8%E6%88%BF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D45%26c_type%3D31%26lcate%3D5001%26pos%3D44%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D45%26cate%3D5001%26q%3D%25E6%25B5%25B4%25E7%2581%25AB%25E4%25B9%258B%25E8%25B7%25AF%25E7%25A5%25A8%25E6%2588%25BF%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
     "hot": 428162,
     "ads": false,
-    "readCount": 14667000,
-    "discussCount": 8745,
-    "origin": 1791
+    "readCount": 21864000,
+    "discussCount": 11000,
+    "origin": 2378
+  },
+  {
+    "title": "盛世中华吾辈有幸",
+    "category": "社会",
+    "description": "新中国成立75周年之际，新华社推出重磅献礼短片《有幸》。戳视频↓让我们一同感受祖国的发展脉动！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%E5%90%BE%E8%BE%88%E6%9C%89%E5%B9%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%259B%259B%25E4%25B8%2596%25E4%25B8%25AD%25E5%258D%258E%25E5%2590%25BE%25E8%25BE%2588%25E6%259C%2589%25E5%25B9%25B8%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D42%26realpos%3D43%26band_rank%3D43%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
+    "hot": 427621,
+    "ads": false,
+    "readCount": 8271000,
+    "discussCount": 23000,
+    "origin": 200
   },
   {
     "title": "国庆节假期第1天",
@@ -421,15 +442,47 @@
     "origin": 1390
   },
   {
+    "title": "浴火之路开分9.5",
+    "category": "电影",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF%E5%BC%80%E5%88%869.5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D9%26band_rank%3D9%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%25B5%25B4%25E7%2581%25AB%25E4%25B9%258B%25E8%25B7%25AF%25E5%25BC%2580%25E5%2588%25869.5%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D9%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 397055,
+    "ads": false,
+    "readCount": 3628000,
+    "discussCount": 2326,
+    "origin": 218
+  },
+  {
+    "title": "布云朝克特vs辛纳",
+    "category": "体育",
+    "description": "布云朝克特将在中网半决赛挑战辛纳，优酷体育全程直播2024中网！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B8%83%E4%BA%91%E6%9C%9D%E5%85%8B%E7%89%B9vs%E8%BE%9B%E7%BA%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D10%26band_rank%3D10%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%25B8%2583%25E4%25BA%2591%25E6%259C%259D%25E5%2585%258B%25E7%2589%25B9vs%25E8%25BE%259B%25E7%25BA%25B3%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D10%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 393160,
+    "ads": false,
+    "readCount": 3800000,
+    "discussCount": 1113,
+    "origin": 97
+  },
+  {
     "title": "国庆假期第一天你在干什么",
     "category": "社会",
     "description": "今天是#国庆节假期第一天#，你在哪里？在干什么呢？   ​​​",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%BD%A0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%259B%25BD%25E5%25BA%2586%25E5%2581%2587%25E6%259C%259F%25E7%25AC%25AC%25E4%25B8%2580%25E5%25A4%25A9%25E4%25BD%25A0%25E5%259C%25A8%25E5%25B9%25B2%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26realpos%3D17%26cate%3D5001%26pos%3D17%26lcate%3D5001%26band_rank%3D17%26display_time%3D1727760218%26pre_seqid%3D17277602186680116047831",
     "hot": 391804,
     "ads": false,
-    "readCount": 32789000,
-    "discussCount": 11000,
-    "origin": 4233
+    "readCount": 38634000,
+    "discussCount": 15000,
+    "origin": 5040
+  },
+  {
+    "title": "以色列总理向伊朗人民喊话",
+    "category": "时事",
+    "description": "以色列总理内塔尼亚胡9月30日发布一段长约3分钟的英文视频，称这是他向伊朗人民的“直接讲话”。他在视频中称，“中东就没有以色列无法触及之地”。他指责伊朗政府“以本国人民为代价使中东深陷战争”，“正在让伊朗人一步步接近深渊”",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E5%90%91%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%96%8A%E8%AF%9D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D11%26band_rank%3D11%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E4%25BB%25A5%25E8%2589%25B2%25E5%2588%2597%25E6%2580%25BB%25E7%2590%2586%25E5%2590%2591%25E4%25BC%258A%25E6%259C%2597%25E4%25BA%25BA%25E6%25B0%2591%25E5%2596%258A%25E8%25AF%259D%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D11%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 383555,
+    "ads": false,
+    "readCount": 4180000,
+    "discussCount": 123,
+    "origin": 69
   },
   {
     "title": "上海房东连夜跳价50万",
@@ -463,6 +516,16 @@
     "origin": 287
   },
   {
+    "title": "赵今麦刘浩存MIUMIU出图",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%88%98%E6%B5%A9%E5%AD%98MIUMIU%E5%87%BA%E5%9B%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25B5%25B5%25E4%25BB%258A%25E9%25BA%25A6%25E5%2588%2598%25E6%25B5%25A9%25E5%25AD%2598MIUMIU%25E5%2587%25BA%25E5%259B%25BE%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D13%26realpos%3D13%26lcate%3D5001%26pos%3D12%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
+    "hot": 365343,
+    "ads": false,
+    "readCount": 23885000,
+    "discussCount": 6190,
+    "origin": 1303
+  },
+  {
     "title": "孙颖莎王楚钦祝福祖国",
     "category": "体育",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A5%9D%E7%A6%8F%E7%A5%96%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D16%26q%3D%2523%25E5%25AD%2599%25E9%25A2%2596%25E8%258E%258E%25E7%258E%258B%25E6%25A5%259A%25E9%2592%25A6%25E7%25A5%259D%25E7%25A6%258F%25E7%25A5%2596%25E5%259B%25BD%2523%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D16%26band_rank%3D16%26c_type%3D31%26display_time%3D1727756932%26pre_seqid%3D172775693289101170649155",
@@ -478,9 +541,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D749%E5%B1%80+%E4%B9%9D%E5%B1%82%E5%A6%96%E5%A1%94&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D5%26c_type%3D31%26lcate%3D5001%26pos%3D4%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D5%26cate%3D5001%26q%3D749%25E5%25B1%2580%2520%25E4%25B9%259D%25E5%25B1%2582%25E5%25A6%2596%25E5%25A1%2594%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
     "hot": 350673,
     "ads": false,
-    "readCount": 11593000,
-    "discussCount": 5605,
-    "origin": 1481
+    "readCount": 12973000,
+    "discussCount": 6451,
+    "origin": 1571
   },
   {
     "title": "黎巴嫩网红双胞胎母亲拍下逃难画面",
@@ -491,6 +554,16 @@
     "readCount": 43196000,
     "discussCount": 1721,
     "origin": 268
+  },
+  {
+    "title": "合肥地震",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%25E5%2590%2588%25E8%2582%25A5%25E5%259C%25B0%25E9%259C%2587%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D10%26realpos%3D11%26band_rank%3D11%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
+    "hot": 348280,
+    "ads": false,
+    "readCount": 650000000,
+    "discussCount": 326000,
+    "origin": 60000
   },
   {
     "title": "大国重器是刻进中国人DNA的骄傲",
@@ -515,6 +588,16 @@
     "origin": 173
   },
   {
+    "title": "国庆当天12.3万人观看升国旗仪式",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%BA%86%E5%BD%93%E5%A4%A912.3%E4%B8%87%E4%BA%BA%E8%A7%82%E7%9C%8B%E5%8D%87%E5%9B%BD%E6%97%97%E4%BB%AA%E5%BC%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D15%26band_rank%3D15%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%259B%25BD%25E5%25BA%2586%25E5%25BD%2593%25E5%25A4%25A912.3%25E4%25B8%2587%25E4%25BA%25BA%25E8%25A7%2582%25E7%259C%258B%25E5%258D%2587%25E5%259B%25BD%25E6%2597%2597%25E4%25BB%25AA%25E5%25BC%258F%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D15%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 342046,
+    "ads": false,
+    "readCount": 409000,
+    "discussCount": 43,
+    "origin": 13
+  },
+  {
     "title": "电影只此青绿里的中式美学",
     "category": "电影",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B5%E5%BD%B1%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E9%87%8C%E7%9A%84%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D15%26q%3D%2523%25E7%2594%25B5%25E5%25BD%25B1%25E5%258F%25AA%25E6%25AD%25A4%25E9%259D%2592%25E7%25BB%25BF%25E9%2587%258C%25E7%259A%2584%25E4%25B8%25AD%25E5%25BC%258F%25E7%25BE%258E%25E5%25AD%25A6%2523%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D15%26band_rank%3D15%26c_type%3D31%26display_time%3D1727756932%26pre_seqid%3D172775693289101170649155",
@@ -536,6 +619,17 @@
     "origin": 737
   },
   {
+    "title": "合肥肥东今年已经发生6次3级以上地震",
+    "category": "社会",
+    "description": "#合肥市肥东县发生3.3级地震#后，@大皖新闻 记者第一时间联系安徽省地震局合肥地震监测中心站，工作人员称已有人员赶赴震中。 ​​​",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%90%88%E8%82%A5%E8%82%A5%E4%B8%9C%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%BB%8F%E5%8F%91%E7%94%9F6%E6%AC%A13%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%2590%2588%25E8%2582%25A5%25E8%2582%25A5%25E4%25B8%259C%25E4%25BB%258A%25E5%25B9%25B4%25E5%25B7%25B2%25E7%25BB%258F%25E5%258F%2591%25E7%2594%259F6%25E6%25AC%25A13%25E7%25BA%25A7%25E4%25BB%25A5%25E4%25B8%258A%25E5%259C%25B0%25E9%259C%2587%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D39%26realpos%3D40%26band_rank%3D40%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
+    "hot": 337491,
+    "ads": false,
+    "readCount": 17241000,
+    "discussCount": 1522,
+    "origin": 439
+  },
+  {
     "title": "赵丽颖完成了演员与角色之间的交汇",
     "category": "电影",
     "description": "赵丽颖李红樱上映海报，她完成了演员与角色之间的交汇，期待和李红樱的影院见~@赵丽颖 ​​​",
@@ -547,24 +641,14 @@
     "origin": 929
   },
   {
-    "title": "志愿军",
-    "category": "暂无",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BF%97%E6%84%BF%E5%86%9B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26lcate%3D5001%26pos%3D9%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D10%26cate%3D5001%26q%3D%25E5%25BF%2597%25E6%2584%25BF%25E5%2586%259B%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
-    "hot": 336778,
-    "ads": false,
-    "readCount": 71636000,
-    "discussCount": 78000,
-    "origin": 8111
-  },
-  {
     "title": "高速堵车 无人机叫醒",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6+%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%AB%E9%86%92&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D11%26c_type%3D31%26lcate%3D5001%26pos%3D10%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26band_rank%3D11%26cate%3D5001%26q%3D%25E9%25AB%2598%25E9%2580%259F%25E5%25A0%25B5%25E8%25BD%25A6%2520%25E6%2597%25A0%25E4%25BA%25BA%25E6%259C%25BA%25E5%258F%25AB%25E9%2586%2592%26display_time%3D1727771482%26pre_seqid%3D17277714826789116240668",
     "hot": 335117,
     "ads": false,
-    "readCount": 15003000,
-    "discussCount": 1375,
-    "origin": 466
+    "readCount": 16703000,
+    "discussCount": 1851,
+    "origin": 514
   },
   {
     "title": "孙颖莎比赛多次被闪光灯干扰",
@@ -573,9 +657,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AF%94%E8%B5%9B%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%97%AA%E5%85%89%E7%81%AF%E5%B9%B2%E6%89%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25AD%2599%25E9%25A2%2596%25E8%258E%258E%25E6%25AF%2594%25E8%25B5%259B%25E5%25A4%259A%25E6%25AC%25A1%25E8%25A2%25AB%25E9%2597%25AA%25E5%2585%2589%25E7%2581%25AF%25E5%25B9%25B2%25E6%2589%25B0%2523%26dgr%3D0%26realpos%3D20%26pos%3D20%26c_type%3D31%26stream_entry_id%3D31%26band_rank%3D20%26flag%3D1%26cate%3D5001%26display_time%3D1727767396%26pre_seqid%3D17277673968690116020451",
     "hot": 331785,
     "ads": false,
-    "readCount": 30273000,
-    "discussCount": 6730,
-    "origin": 1468
+    "readCount": 34824000,
+    "discussCount": 7216,
+    "origin": 1563
   },
   {
     "title": "孙颖莎暴力正手连击",
@@ -605,9 +689,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A0%B5%E8%BD%A6%E6%97%B6%E7%AC%AC1%E8%BE%86%E8%BD%A6%E5%9C%A8%E5%B9%B2%E5%95%A5%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A0%25B5%25E8%25BD%25A6%25E6%2597%25B6%25E7%25AC%25AC1%25E8%25BE%2586%25E8%25BD%25A6%25E5%259C%25A8%25E5%25B9%25B2%25E5%2595%25A5%2523%26dgr%3D0%26realpos%3D24%26pos%3D24%26c_type%3D31%26stream_entry_id%3D31%26band_rank%3D24%26flag%3D1%26cate%3D5001%26display_time%3D1727767396%26pre_seqid%3D17277673968690116020451",
     "hot": 325231,
     "ads": false,
-    "readCount": 28292000,
-    "discussCount": 2490,
-    "origin": 544
+    "readCount": 32390000,
+    "discussCount": 2869,
+    "origin": 591
   },
   {
     "title": "学习困难门诊预约爆满背后",
@@ -629,6 +713,27 @@
     "readCount": 11916000,
     "discussCount": 11000,
     "origin": 1360
+  },
+  {
+    "title": "Jennie小松菜奈同框",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DJennie%E5%B0%8F%E6%9D%BE%E8%8F%9C%E5%A5%88%E5%90%8C%E6%A1%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D17%26band_rank%3D17%26stream_entry_id%3D31%26cate%3D5001%26q%3DJennie%25E5%25B0%258F%25E6%259D%25BE%25E8%258F%259C%25E5%25A5%2588%25E5%2590%258C%25E6%25A1%2586%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D17%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 316480,
+    "ads": false,
+    "readCount": 481000,
+    "discussCount": 126,
+    "origin": 58
+  },
+  {
+    "title": "749局票房",
+    "category": "电影-华语电影",
+    "description": "749局票房大卖！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D749%E5%B1%80%E7%A5%A8%E6%88%BF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D749%25E5%25B1%2580%25E7%25A5%25A8%25E6%2588%25BF%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D29%26realpos%3D30%26band_rank%3D30%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
+    "hot": 313655,
+    "ads": false,
+    "readCount": 2901000,
+    "discussCount": 4187,
+    "origin": 1388
   },
   {
     "title": "半熟男女 孙涵涵联手曾诚对抗周斌",
@@ -690,9 +795,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%A0%B8%E6%8C%82%E7%A7%A6%E9%9C%84%E8%B4%A4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D11%26realpos%3D11%26q%3D%2523%25E5%25BE%25B7%25E4%25BA%2591%25E7%25A4%25BE%25E7%25A0%25B8%25E6%258C%2582%25E7%25A7%25A6%25E9%259C%2584%25E8%25B4%25A4%2523%26dgr%3D0%26c_type%3D31%26pos%3D10%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1727751785%26pre_seqid%3D17277517851290411756507",
     "hot": 292689,
     "ads": false,
-    "readCount": 280000000,
-    "discussCount": 25000,
-    "origin": 6900
+    "readCount": 290000000,
+    "discussCount": 26000,
+    "origin": 6982
   },
   {
     "title": "女子称一丝不挂被2次刷开酒店房门",
@@ -833,6 +938,17 @@
     "origin": 280
   },
   {
+    "title": "山西大同晴空万里突转大雪纷飞",
+    "category": "社会",
+    "description": "10月1日，山西大同。晴空万里突转大雪纷飞，雪花纷飞白茫茫一片，路人：让人始料不及。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%90%8C%E6%99%B4%E7%A9%BA%E4%B8%87%E9%87%8C%E7%AA%81%E8%BD%AC%E5%A4%A7%E9%9B%AA%E7%BA%B7%E9%A3%9E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25B1%25B1%25E8%25A5%25BF%25E5%25A4%25A7%25E5%2590%258C%25E6%2599%25B4%25E7%25A9%25BA%25E4%25B8%2587%25E9%2587%258C%25E7%25AA%2581%25E8%25BD%25AC%25E5%25A4%25A7%25E9%259B%25AA%25E7%25BA%25B7%25E9%25A3%259E%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D12%26realpos%3D13%26band_rank%3D13%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
+    "hot": 264235,
+    "ads": false,
+    "readCount": 19727000,
+    "discussCount": 1926,
+    "origin": 566
+  },
+  {
     "title": "10月你好",
     "category": "社会",
     "description": "10月已至，珍惜时光，全力以赴！ ​",
@@ -971,6 +1087,16 @@
     "origin": 842
   },
   {
+    "title": "女子没钱产检并流产医生两次硬发红包",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E6%B2%A1%E9%92%B1%E4%BA%A7%E6%A3%80%E5%B9%B6%E6%B5%81%E4%BA%A7%E5%8C%BB%E7%94%9F%E4%B8%A4%E6%AC%A1%E7%A1%AC%E5%8F%91%E7%BA%A2%E5%8C%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E6%25B2%25A1%25E9%2592%25B1%25E4%25BA%25A7%25E6%25A3%2580%25E5%25B9%25B6%25E6%25B5%2581%25E4%25BA%25A7%25E5%258C%25BB%25E7%2594%259F%25E4%25B8%25A4%25E6%25AC%25A1%25E7%25A1%25AC%25E5%258F%2591%25E7%25BA%25A2%25E5%258C%2585%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26pos%3D21%26lcate%3D5001%26cate%3D5001%26band_rank%3D21%26display_time%3D1727764456%26pre_seqid%3D172776445638201171387121",
+    "hot": 252777,
+    "ads": false,
+    "readCount": 56954000,
+    "discussCount": 2294,
+    "origin": 734
+  },
+  {
     "title": "王一博 轻描淡写地说浓墨重彩地做",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E4%B8%80%E5%8D%9A+%E8%BD%BB%E6%8F%8F%E6%B7%A1%E5%86%99%E5%9C%B0%E8%AF%B4%E6%B5%93%E5%A2%A8%E9%87%8D%E5%BD%A9%E5%9C%B0%E5%81%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%25E7%258E%258B%25E4%25B8%2580%25E5%258D%259A%2520%25E8%25BD%25BB%25E6%258F%258F%25E6%25B7%25A1%25E5%2586%2599%25E5%259C%25B0%25E8%25AF%25B4%25E6%25B5%2593%25E5%25A2%25A8%25E9%2587%258D%25E5%25BD%25A9%25E5%259C%25B0%25E5%2581%259A%26flag%3D0%26stream_entry_id%3D31%26pos%3D18%26band_rank%3D18%26realpos%3D18%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1727747851%26pre_seqid%3D17277478511130118302059",
@@ -979,16 +1105,6 @@
     "readCount": 9171000,
     "discussCount": 30000,
     "origin": 4770
-  },
-  {
-    "title": "女子没钱产检并流产医生两次硬发红包",
-    "category": "社会",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%90%E6%B2%A1%E9%92%B1%E4%BA%A7%E6%A3%80%E5%B9%B6%E6%B5%81%E4%BA%A7%E5%8C%BB%E7%94%9F%E4%B8%A4%E6%AC%A1%E7%A1%AC%E5%8F%91%E7%BA%A2%E5%8C%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%2590%25E6%25B2%25A1%25E9%2592%25B1%25E4%25BA%25A7%25E6%25A3%2580%25E5%25B9%25B6%25E6%25B5%2581%25E4%25BA%25A7%25E5%258C%25BB%25E7%2594%259F%25E4%25B8%25A4%25E6%25AC%25A1%25E7%25A1%25AC%25E5%258F%2591%25E7%25BA%25A2%25E5%258C%2585%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26pos%3D21%26lcate%3D5001%26cate%3D5001%26band_rank%3D21%26display_time%3D1727764456%26pre_seqid%3D172776445638201171387121",
-    "hot": 247385,
-    "ads": false,
-    "readCount": 50009000,
-    "discussCount": 2117,
-    "origin": 660
   },
   {
     "title": "江慈的爱永远拿得出手",
@@ -1012,6 +1128,16 @@
     "origin": 159
   },
   {
+    "title": "国庆第1天西湖人从众",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E5%BA%86%E7%AC%AC1%E5%A4%A9%E8%A5%BF%E6%B9%96%E4%BA%BA%E4%BB%8E%E4%BC%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D22%26band_rank%3D22%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%259B%25BD%25E5%25BA%2586%25E7%25AC%25AC1%25E5%25A4%25A9%25E8%25A5%25BF%25E6%25B9%2596%25E4%25BA%25BA%25E4%25BB%258E%25E4%25BC%2597%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D22%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 241646,
+    "ads": false,
+    "readCount": 10572000,
+    "discussCount": 356,
+    "origin": 65
+  },
+  {
     "title": "半熟男女得不到就更加爱",
     "category": "电视剧-国产剧",
     "description": "深刻演绎出得不到的在骚动的就是半熟男女",
@@ -1023,6 +1149,17 @@
     "origin": 173
   },
   {
+    "title": "重庆人已经穿上羽绒服了",
+    "category": "社会",
+    "description": "近日，重庆一夜降了十几度，有市民已经穿上羽绒服了，但是鞋子还没来得及换，哈哈哈",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8D%E5%BA%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E7%A9%BF%E4%B8%8A%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%258D%25E5%25BA%2586%25E4%25BA%25BA%25E5%25B7%25B2%25E7%25BB%258F%25E7%25A9%25BF%25E4%25B8%258A%25E7%25BE%25BD%25E7%25BB%2592%25E6%259C%258D%25E4%25BA%2586%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D47%26realpos%3D47%26lcate%3D5001%26pos%3D46%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
+    "hot": 237265,
+    "ads": false,
+    "readCount": 9247000,
+    "discussCount": 890,
+    "origin": 264
+  },
+  {
     "title": "祝福伟大祖国繁荣富强",
     "category": "社会",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A5%9D%E7%A6%8F%E4%BC%9F%E5%A4%A7%E7%A5%96%E5%9B%BD%E7%B9%81%E8%8D%A3%E5%AF%8C%E5%BC%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%25A5%259D%25E7%25A6%258F%25E4%25BC%259F%25E5%25A4%25A7%25E7%25A5%2596%25E5%259B%25BD%25E7%25B9%2581%25E8%258D%25A3%25E5%25AF%258C%25E5%25BC%25BA%2523%26flag%3D1%26stream_entry_id%3D31%26pos%3D19%26band_rank%3D19%26realpos%3D19%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26display_time%3D1727747851%26pre_seqid%3D17277478511130118302059",
@@ -1031,6 +1168,17 @@
     "readCount": 14532000,
     "discussCount": 8381,
     "origin": 507
+  },
+  {
+    "title": "单依纯巴黎看秀状态",
+    "category": "明星-内地",
+    "description": "单依纯虽然年纪小，但气场完全不输！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%B7%B4%E9%BB%8E%E7%9C%8B%E7%A7%80%E7%8A%B6%E6%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D24%26band_rank%3D24%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%258D%2595%25E4%25BE%259D%25E7%25BA%25AF%25E5%25B7%25B4%25E9%25BB%258E%25E7%259C%258B%25E7%25A7%2580%25E7%258A%25B6%25E6%2580%2581%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D24%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 236719,
+    "ads": false,
+    "readCount": 3707000,
+    "discussCount": 1700,
+    "origin": 265
   },
   {
     "title": "国旗升起在泰山之巅",
@@ -1074,16 +1222,6 @@
     "readCount": 5481000,
     "discussCount": 990,
     "origin": 65
-  },
-  {
-    "title": "合肥地震",
-    "category": "社会",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%25E5%2590%2588%25E8%2582%25A5%25E5%259C%25B0%25E9%259C%2587%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D10%26realpos%3D11%26band_rank%3D11%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
-    "hot": 233617,
-    "ads": false,
-    "readCount": 650000000,
-    "discussCount": 324000,
-    "origin": 60000
   },
   {
     "title": "爱奇艺10月片单",
@@ -1138,17 +1276,6 @@
     "origin": 152
   },
   {
-    "title": "山西大同晴空万里突转大雪纷飞",
-    "category": "社会",
-    "description": "10月1日，山西大同。晴空万里突转大雪纷飞，雪花纷飞白茫茫一片，路人：让人始料不及。",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%90%8C%E6%99%B4%E7%A9%BA%E4%B8%87%E9%87%8C%E7%AA%81%E8%BD%AC%E5%A4%A7%E9%9B%AA%E7%BA%B7%E9%A3%9E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%25B1%25B1%25E8%25A5%25BF%25E5%25A4%25A7%25E5%2590%258C%25E6%2599%25B4%25E7%25A9%25BA%25E4%25B8%2587%25E9%2587%258C%25E7%25AA%2581%25E8%25BD%25AC%25E5%25A4%25A7%25E9%259B%25AA%25E7%25BA%25B7%25E9%25A3%259E%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D12%26realpos%3D13%26band_rank%3D13%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
-    "hot": 227874,
-    "ads": false,
-    "readCount": 15148000,
-    "discussCount": 1354,
-    "origin": 439
-  },
-  {
     "title": "浴火之路",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B5%B4%E7%81%AB%E4%B9%8B%E8%B7%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D39%26q%3D%25E6%25B5%25B4%25E7%2581%25AB%25E4%25B9%258B%25E8%25B7%25AF%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26realpos%3D39%26band_rank%3D39%26c_type%3D31%26display_time%3D1727756932%26pre_seqid%3D172775693289101170649155",
@@ -1177,15 +1304,14 @@
     "ads": false
   },
   {
-    "title": "盛世中华吾辈有幸",
-    "category": "社会",
-    "description": "新中国成立75周年之际，新华社推出重磅献礼短片《有幸》。戳视频↓让我们一同感受祖国的发展脉动！",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%E5%90%BE%E8%BE%88%E6%9C%89%E5%B9%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E7%259B%259B%25E4%25B8%2596%25E4%25B8%25AD%25E5%258D%258E%25E5%2590%25BE%25E8%25BE%2588%25E6%259C%2589%25E5%25B9%25B8%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D42%26realpos%3D43%26band_rank%3D43%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
-    "hot": 226101,
+    "title": "杨紫出席VOGUE晚宴",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%A8%E7%B4%AB%E5%87%BA%E5%B8%ADVOGUE%E6%99%9A%E5%AE%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D25%26band_rank%3D25%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%259D%25A8%25E7%25B4%25AB%25E5%2587%25BA%25E5%25B8%25ADVOGUE%25E6%2599%259A%25E5%25AE%25B4%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D25%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 226130,
     "ads": false,
-    "readCount": 4746000,
-    "discussCount": 19000,
-    "origin": 127
+    "readCount": 5266000,
+    "discussCount": 3914,
+    "origin": 826
   },
   {
     "title": "赵露思10月行程图",
@@ -1206,6 +1332,28 @@
     "readCount": 51409000,
     "discussCount": 3788,
     "origin": 891
+  },
+  {
+    "title": "他们在最具安全感的地方安然入睡",
+    "category": "社会",
+    "description": "10月1日，北京。凌晨天安门广场温暖一幕，他们在最具安全感的地方安然入睡，静盼一场属于中国人的浪漫。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%96%E4%BB%AC%E5%9C%A8%E6%9C%80%E5%85%B7%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E5%9C%B0%E6%96%B9%E5%AE%89%E7%84%B6%E5%85%A5%E7%9D%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D26%26band_rank%3D26%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E4%25BB%2596%25E4%25BB%25AC%25E5%259C%25A8%25E6%259C%2580%25E5%2585%25B7%25E5%25AE%2589%25E5%2585%25A8%25E6%2584%259F%25E7%259A%2584%25E5%259C%25B0%25E6%2596%25B9%25E5%25AE%2589%25E7%2584%25B6%25E5%2585%25A5%25E7%259D%25A1%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D26%26flag%3D32768%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 225295,
+    "ads": false,
+    "readCount": 3318000,
+    "discussCount": 98,
+    "origin": 65
+  },
+  {
+    "title": "韩国拟从中国进口1100吨大白菜",
+    "category": "社会",
+    "description": "韩国农林畜产食品部9月30日发布消息称，韩政府计划自中国进口1100吨大白菜，预计韩国白菜的价格和供应量有望在下月恢复平稳。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%8B%9F%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A31100%E5%90%A8%E5%A4%A7%E7%99%BD%E8%8F%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%258B%259F%25E4%25BB%258E%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%259B%25E5%258F%25A31100%25E5%2590%25A8%25E5%25A4%25A7%25E7%2599%25BD%25E8%258F%259C%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D36%26realpos%3D37%26band_rank%3D37%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
+    "hot": 224653,
+    "ads": false,
+    "readCount": 14598000,
+    "discussCount": 1588,
+    "origin": 348
   },
   {
     "title": "Jennie全新粉发造型",
@@ -1260,27 +1408,6 @@
     "origin": 81
   },
   {
-    "title": "合肥肥东今年已经发生6次3级以上地震",
-    "category": "社会",
-    "description": "#合肥市肥东县发生3.3级地震#后，@大皖新闻 记者第一时间联系安徽省地震局合肥地震监测中心站，工作人员称已有人员赶赴震中。 ​​​",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%90%88%E8%82%A5%E8%82%A5%E4%B8%9C%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%BB%8F%E5%8F%91%E7%94%9F6%E6%AC%A13%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%9C%B0%E9%9C%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E5%2590%2588%25E8%2582%25A5%25E8%2582%25A5%25E4%25B8%259C%25E4%25BB%258A%25E5%25B9%25B4%25E5%25B7%25B2%25E7%25BB%258F%25E5%258F%2591%25E7%2594%259F6%25E6%25AC%25A13%25E7%25BA%25A7%25E4%25BB%25A5%25E4%25B8%258A%25E5%259C%25B0%25E9%259C%2587%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D39%26realpos%3D40%26band_rank%3D40%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
-    "hot": 215810,
-    "ads": false,
-    "readCount": 10343000,
-    "discussCount": 885,
-    "origin": 304
-  },
-  {
-    "title": "赵今麦刘浩存MIUMIU出图",
-    "category": "明星",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%88%98%E6%B5%A9%E5%AD%98MIUMIU%E5%87%BA%E5%9B%BE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25B5%25B5%25E4%25BB%258A%25E9%25BA%25A6%25E5%2588%2598%25E6%25B5%25A9%25E5%25AD%2598MIUMIU%25E5%2587%25BA%25E5%259B%25BE%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D13%26realpos%3D13%26lcate%3D5001%26pos%3D12%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
-    "hot": 215061,
-    "ads": false,
-    "readCount": 12941000,
-    "discussCount": 3589,
-    "origin": 872
-  },
-  {
     "title": "开山岛上的升旗仪式",
     "category": "社会",
     "description": "9月29日，江苏连云港，开山岛民兵哨所举行了守岛民兵执勤交换岗仪式。全国时代楷模、开山岛民兵哨所名誉所长王仕花，将一面崭新的五星红旗交到守岛新兵手中，全体人员举行了升旗仪式。",
@@ -1292,15 +1419,36 @@
     "origin": 9
   },
   {
-    "title": "韩国拟从中国进口1100吨大白菜",
+    "title": "86岁院士说天文事业非常酷",
     "category": "社会",
-    "description": "韩国农林畜产食品部9月30日发布消息称，韩政府计划自中国进口1100吨大白菜，预计韩国白菜的价格和供应量有望在下月恢复平稳。",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%8B%9F%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A31100%E5%90%A8%E5%A4%A7%E7%99%BD%E8%8F%9C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%258B%259F%25E4%25BB%258E%25E4%25B8%25AD%25E5%259B%25BD%25E8%25BF%259B%25E5%258F%25A31100%25E5%2590%25A8%25E5%25A4%25A7%25E7%2599%25BD%25E8%258F%259C%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D36%26realpos%3D37%26band_rank%3D37%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
-    "hot": 210719,
+    "description": "1980年，以中国第一座塔式太阳望远镜为起点，中国天文人开启了光芒万丈的逐日之旅。从地面走向空间，“羲和”“夸父”叩问苍穹，于浩瀚星河留下观测太阳的中国视角。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2386%E5%B2%81%E9%99%A2%E5%A3%AB%E8%AF%B4%E5%A4%A9%E6%96%87%E4%BA%8B%E4%B8%9A%E9%9D%9E%E5%B8%B8%E9%85%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D30%26band_rank%3D30%26stream_entry_id%3D31%26cate%3D5001%26q%3D%252386%25E5%25B2%2581%25E9%2599%25A2%25E5%25A3%25AB%25E8%25AF%25B4%25E5%25A4%25A9%25E6%2596%2587%25E4%25BA%258B%25E4%25B8%259A%25E9%259D%259E%25E5%25B8%25B8%25E9%2585%25B7%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D30%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 210665,
     "ads": false,
-    "readCount": 9636000,
-    "discussCount": 982,
-    "origin": 226
+    "readCount": 633000,
+    "discussCount": 46,
+    "origin": 18
+  },
+  {
+    "title": "90岁老人回忆在开国大典打腰鼓",
+    "category": "社会",
+    "description": "王蒙曾在开国大典打腰鼓，他至今还能脱口而出当年的鼓点↓",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2390%E5%B2%81%E8%80%81%E4%BA%BA%E5%9B%9E%E5%BF%86%E5%9C%A8%E5%BC%80%E5%9B%BD%E5%A4%A7%E5%85%B8%E6%89%93%E8%85%B0%E9%BC%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D31%26band_rank%3D31%26stream_entry_id%3D31%26cate%3D5001%26q%3D%252390%25E5%25B2%2581%25E8%2580%2581%25E4%25BA%25BA%25E5%259B%259E%25E5%25BF%2586%25E5%259C%25A8%25E5%25BC%2580%25E5%259B%25BD%25E5%25A4%25A7%25E5%2585%25B8%25E6%2589%2593%25E8%2585%25B0%25E9%25BC%2593%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D31%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 210500,
+    "ads": false,
+    "readCount": 2219000,
+    "discussCount": 254,
+    "origin": 40
+  },
+  {
+    "title": "孙颖莎9400分世排第一",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E9400%E5%88%86%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25AD%2599%25E9%25A2%2596%25E8%258E%258E9400%25E5%2588%2586%25E4%25B8%2596%25E6%258E%2592%25E7%25AC%25AC%25E4%25B8%2580%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D36%26realpos%3D36%26lcate%3D5001%26pos%3D35%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
+    "hot": 210339,
+    "ads": false,
+    "readCount": 62054000,
+    "discussCount": 21000,
+    "origin": 3304
   },
   {
     "title": "吴昕时装周造型戴了10个假发片",
@@ -1373,8 +1521,8 @@
     "hot": 204168,
     "ads": false,
     "readCount": 150000000,
-    "discussCount": 134000,
-    "origin": 14000
+    "discussCount": 137000,
+    "origin": 15000
   },
   {
     "title": "CHANEL大秀",
@@ -1403,20 +1551,20 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2369%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BB%8E%E9%BB%8E%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%252369%25E5%2590%258D%25E4%25B8%25AD%25E5%259B%25BD%25E5%2585%25AC%25E6%25B0%2591%25E4%25BB%258E%25E9%25BB%258E%25E5%25AE%2589%25E5%2585%25A8%25E6%2592%25A4%25E7%25A6%25BB%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26realpos%3D25%26lcate%3D5001%26pos%3D24%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
     "hot": 201930,
     "ads": false,
-    "readCount": 2536000,
-    "discussCount": 336,
-    "origin": 36
+    "readCount": 7074000,
+    "discussCount": 702,
+    "origin": 103
   },
   {
-    "title": "749局票房",
-    "category": "电影-华语电影",
-    "description": "749局票房大卖！",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D749%E5%B1%80%E7%A5%A8%E6%88%BF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26q%3D749%25E5%25B1%2580%25E7%25A5%25A8%25E6%2588%25BF%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D29%26realpos%3D30%26band_rank%3D30%26display_time%3D1727774751%26pre_seqid%3D172777475172304109924107",
-    "hot": 201755,
+    "title": "刘浩存深V衬衫造型",
+    "category": "明星",
+    "description": "刘浩存毛领夹克，深V衬衫造型好美，张力拉满了",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%B7%B1V%E8%A1%AC%E8%A1%AB%E9%80%A0%E5%9E%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D33%26band_rank%3D33%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%2588%2598%25E6%25B5%25A9%25E5%25AD%2598%25E6%25B7%25B1V%25E8%25A1%25AC%25E8%25A1%25AB%25E9%2580%25A0%25E5%259E%258B%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D33%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 201364,
     "ads": false,
-    "readCount": 1371000,
-    "discussCount": 1680,
-    "origin": 723
+    "readCount": 1117000,
+    "discussCount": 267,
+    "origin": 123
   },
   {
     "title": "国庆档",
@@ -1519,6 +1667,17 @@
     "readCount": 10092000,
     "discussCount": 2777,
     "origin": 220
+  },
+  {
+    "title": "P人有的是手段拿捏时间",
+    "category": "搞笑",
+    "description": "P人有的是手段拿捏时间",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23P%E4%BA%BA%E6%9C%89%E7%9A%84%E6%98%AF%E6%89%8B%E6%AE%B5%E6%8B%BF%E6%8D%8F%E6%97%B6%E9%97%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523P%25E4%25BA%25BA%25E6%259C%2589%25E7%259A%2584%25E6%2598%25AF%25E6%2589%258B%25E6%25AE%25B5%25E6%258B%25BF%25E6%258D%258F%25E6%2597%25B6%25E9%2597%25B4%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D35%26realpos%3D35%26lcate%3D5001%26pos%3D34%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
+    "hot": 191354,
+    "ads": false,
+    "readCount": 10379000,
+    "discussCount": 1272,
+    "origin": 225
   },
   {
     "title": "孙颖莎说吃好休息好",
@@ -1697,6 +1856,17 @@
     "readCount": 11010000000,
     "discussCount": 9339000,
     "origin": 1073000
+  },
+  {
+    "title": "彭高和翁青雅约会高兴到跳脚",
+    "category": "综艺",
+    "description": "《心动的信号7》彭高到约会现场看见竟然是翁青雅在等他，立刻高兴到“跳脚”",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%AD%E9%AB%98%E5%92%8C%E7%BF%81%E9%9D%92%E9%9B%85%E7%BA%A6%E4%BC%9A%E9%AB%98%E5%85%B4%E5%88%B0%E8%B7%B3%E8%84%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D36%26band_rank%3D36%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%25BD%25AD%25E9%25AB%2598%25E5%2592%258C%25E7%25BF%2581%25E9%259D%2592%25E9%259B%2585%25E7%25BA%25A6%25E4%25BC%259A%25E9%25AB%2598%25E5%2585%25B4%25E5%2588%25B0%25E8%25B7%25B3%25E8%2584%259A%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D36%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 169932,
+    "ads": false,
+    "readCount": 6600000,
+    "discussCount": 445,
+    "origin": 113
   },
   {
     "title": "749局预测票房超9亿",
@@ -1889,27 +2059,6 @@
     "readCount": 1301000,
     "discussCount": 2038,
     "origin": 275
-  },
-  {
-    "title": "P人有的是手段拿捏时间",
-    "category": "搞笑",
-    "description": "P人有的是手段拿捏时间",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23P%E4%BA%BA%E6%9C%89%E7%9A%84%E6%98%AF%E6%89%8B%E6%AE%B5%E6%8B%BF%E6%8D%8F%E6%97%B6%E9%97%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523P%25E4%25BA%25BA%25E6%259C%2589%25E7%259A%2584%25E6%2598%25AF%25E6%2589%258B%25E6%25AE%25B5%25E6%258B%25BF%25E6%258D%258F%25E6%2597%25B6%25E9%2597%25B4%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D35%26realpos%3D35%26lcate%3D5001%26pos%3D34%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
-    "hot": 152931,
-    "ads": false,
-    "readCount": 5647000,
-    "discussCount": 734,
-    "origin": 113
-  },
-  {
-    "title": "孙颖莎9400分世排第一",
-    "category": "社会",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E9400%E5%88%86%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25AD%2599%25E9%25A2%2596%25E8%258E%258E9400%25E5%2588%2586%25E4%25B8%2596%25E6%258E%2592%25E7%25AC%25AC%25E4%25B8%2580%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D36%26realpos%3D36%26lcate%3D5001%26pos%3D35%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
-    "hot": 152220,
-    "ads": false,
-    "readCount": 56928000,
-    "discussCount": 20000,
-    "origin": 3147
   },
   {
     "title": "阿云嘎说出入平安拍得特别压抑",
@@ -2138,9 +2287,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%99%BD%E8%89%B2%E6%B7%B1V%E9%92%88%E7%BB%87%E8%A1%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E8%25B5%25B5%25E9%259C%25B2%25E6%2580%259D%25E7%2599%25BD%25E8%2589%25B2%25E6%25B7%25B1V%25E9%2592%2588%25E7%25BB%2587%25E8%25A1%25AB%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D41%26realpos%3D41%26lcate%3D5001%26pos%3D40%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
     "hot": 136209,
     "ads": false,
-    "readCount": 6923000,
-    "discussCount": 70000,
-    "origin": 3696
+    "readCount": 10688000,
+    "discussCount": 75000,
+    "origin": 4195
   },
   {
     "title": "武汉发生1.8级地震",
@@ -2240,6 +2389,17 @@
     "origin": 123
   },
   {
+    "title": "赵丽颖三搭想和肖央演兄妹",
+    "category": "电影",
+    "description": "电影《浴火之路》10月1日全国上映！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%89%E6%90%AD%E6%83%B3%E5%92%8C%E8%82%96%E5%A4%AE%E6%BC%94%E5%85%84%E5%A6%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D43%26band_rank%3D43%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E8%25B5%25B5%25E4%25B8%25BD%25E9%25A2%2596%25E4%25B8%2589%25E6%2590%25AD%25E6%2583%25B3%25E5%2592%258C%25E8%2582%2596%25E5%25A4%25AE%25E6%25BC%2594%25E5%2585%2584%25E5%25A6%25B9%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D43%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 123390,
+    "ads": false,
+    "readCount": 3504000,
+    "discussCount": 150,
+    "origin": 52
+  },
+  {
     "title": "日本岸田内阁宣布集体辞职",
     "category": "社会",
     "description": "​​​当地时间10月1日上午，日本岸田内阁在临时阁僚会议上集体辞职。",
@@ -2301,6 +2461,16 @@
     "readCount": 5587000,
     "discussCount": 211,
     "origin": 87
+  },
+  {
+    "title": "数学学习困难门诊到底治什么",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%95%B0%E5%AD%A6%E5%AD%A6%E4%B9%A0%E5%9B%B0%E9%9A%BE%E9%97%A8%E8%AF%8A%E5%88%B0%E5%BA%95%E6%B2%BB%E4%BB%80%E4%B9%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D44%26band_rank%3D44%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%2595%25B0%25E5%25AD%25A6%25E5%25AD%25A6%25E4%25B9%25A0%25E5%259B%25B0%25E9%259A%25BE%25E9%2597%25A8%25E8%25AF%258A%25E5%2588%25B0%25E5%25BA%2595%25E6%25B2%25BB%25E4%25BB%2580%25E4%25B9%2588%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D44%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 118041,
+    "ads": false,
+    "readCount": 2976000,
+    "discussCount": 1521,
+    "origin": 56
   },
   {
     "title": "A股疯涨专家提醒笑不露齿",
@@ -2374,6 +2544,17 @@
     "readCount": 15060000,
     "discussCount": 2132,
     "origin": 549
+  },
+  {
+    "title": "泰国曼谷校车起火至少10人死亡",
+    "category": "社会",
+    "description": "当地时间10月1日12时许，一辆载有40多名教师和学生的大巴车行驶至泰国首都曼谷北郊时发生火灾。经初步确认，火灾至少造成10人死亡。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E6%A0%A1%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%9110%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D46%26band_rank%3D46%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E6%25B3%25B0%25E5%259B%25BD%25E6%259B%25BC%25E8%25B0%25B7%25E6%25A0%25A1%25E8%25BD%25A6%25E8%25B5%25B7%25E7%2581%25AB%25E8%2587%25B3%25E5%25B0%259110%25E4%25BA%25BA%25E6%25AD%25BB%25E4%25BA%25A1%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D46%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 112031,
+    "ads": false,
+    "readCount": 5313000,
+    "discussCount": 291,
+    "origin": 78
   },
   {
     "title": "电影浴火之路今日上映",
@@ -2459,15 +2640,25 @@
     "origin": 141
   },
   {
-    "title": "重庆人已经穿上羽绒服了",
-    "category": "社会",
-    "description": "近日，重庆一夜降了十几度，有市民已经穿上羽绒服了，但是鞋子还没来得及换，哈哈哈",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%8D%E5%BA%86%E4%BA%BA%E5%B7%B2%E7%BB%8F%E7%A9%BF%E4%B8%8A%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%258D%25E5%25BA%2586%25E4%25BA%25BA%25E5%25B7%25B2%25E7%25BB%258F%25E7%25A9%25BF%25E4%25B8%258A%25E7%25BE%25BD%25E7%25BB%2592%25E6%259C%258D%25E4%25BA%2586%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D47%26realpos%3D47%26lcate%3D5001%26pos%3D46%26flag%3D1%26dgr%3D0%26display_time%3D1727778399%26pre_seqid%3D17277783992390117661812",
-    "hot": 106510,
+    "title": "阿尔卡拉斯中网晋级决赛",
+    "category": "体育",
+    "description": "上咪咕看2024中网！男单半决赛，阿尔卡拉斯2比0【7-5/6-3】战胜梅德韦杰夫晋级决赛。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E4%B8%AD%E7%BD%91%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D49%26band_rank%3D49%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E9%2598%25BF%25E5%25B0%2594%25E5%258D%25A1%25E6%258B%2589%25E6%2596%25AF%25E4%25B8%25AD%25E7%25BD%2591%25E6%2599%258B%25E7%25BA%25A7%25E5%2586%25B3%25E8%25B5%259B%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D49%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 106108,
     "ads": false,
-    "readCount": 3071000,
-    "discussCount": 380,
-    "origin": 53
+    "readCount": 4677000,
+    "discussCount": 331,
+    "origin": 46
+  },
+  {
+    "title": "向鹏刘炜珊vs薛飞钱天一",
+    "category": "体育",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%90%91%E9%B9%8F%E5%88%98%E7%82%9C%E7%8F%8Avs%E8%96%9B%E9%A3%9E%E9%92%B1%E5%A4%A9%E4%B8%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D50%26band_rank%3D50%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E5%2590%2591%25E9%25B9%258F%25E5%2588%2598%25E7%2582%259C%25E7%258F%258Avs%25E8%2596%259B%25E9%25A3%259E%25E9%2592%25B1%25E5%25A4%25A9%25E4%25B8%2580%2523%26dgr%3D0%26lcate%3D5001%26c_type%3D31%26realpos%3D50%26flag%3D1%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 106104,
+    "ads": false,
+    "readCount": 1618000,
+    "discussCount": 31,
+    "origin": 25
   },
   {
     "title": "文化中国行文博日历",
@@ -2540,9 +2731,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B75%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D39%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D39%26dgr%3D0%26flag%3D0%26filter_type%3Drealtimehot%26realpos%3D39%26c_type%3D31%26q%3D%2523%25E5%25BA%2586%25E7%25A5%259D%25E4%25B8%25AD%25E5%258D%258E%25E4%25BA%25BA%25E6%25B0%2591%25E5%2585%25B1%25E5%2592%258C%25E5%259B%25BD%25E6%2588%2590%25E7%25AB%258B75%25E5%2591%25A8%25E5%25B9%25B4%25E6%258B%259B%25E5%25BE%2585%25E4%25BC%259A%2523%26cate%3D5001%26display_time%3D1727713783%26pre_seqid%3D172771378356301181363138",
     "hot": 101328,
     "ads": false,
-    "readCount": 20506000,
-    "discussCount": 1026,
-    "origin": 223
+    "readCount": 21184000,
+    "discussCount": 1076,
+    "origin": 236
   },
   {
     "title": "迪丽热巴登人民日报宣传片",
@@ -3008,5 +3199,16 @@
     "readCount": 10701000,
     "discussCount": 3339,
     "origin": 52
+  },
+  {
+    "title": "超话高分游戏",
+    "category": "游戏",
+    "description": "来超话分享游戏评分赢惊喜好礼与游戏基金～",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B6%85%E8%AF%9D%E9%AB%98%E5%88%86%E6%B8%B8%E6%88%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26band_rank%3D7%26stream_entry_id%3D31%26cate%3D5001%26is_ad_pos%3D1%26q%3D%2523%25E8%25B6%2585%25E8%25AF%259D%25E9%25AB%2598%25E5%2588%2586%25E6%25B8%25B8%25E6%2588%258F%2523%26dgr%3D0%26adid%3D258189%26pos%3D6%26c_type%3D31%26display_time%3D1727781633%26pre_seqid%3D17277816331080118702555",
+    "hot": 0,
+    "ads": true,
+    "readCount": 84462000,
+    "discussCount": 62000,
+    "origin": 469
   }
 ]
