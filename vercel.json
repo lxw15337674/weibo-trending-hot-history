@@ -1,0 +1,13 @@
+{
+    "functions": {
+        "pages/**/*": {
+            "maxDuration": 60
+        }
+    },
+    "ignoreBuild": [
+        "node_modules/**",
+        "dist/**",
+        "archives/**",
+        "*.log"
+    ]
+}
