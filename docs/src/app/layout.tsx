@@ -9,8 +9,8 @@ const inter = Inter({ subsets: ['latin'] });
 export async function generateMetadata(): Promise<Metadata> {
 
   return {
-    title: `微博热搜榜`,
-    description: `微博热搜榜`,
+    title: `微博热搜历史归档 - 查看每日热搜榜单`,
+    description: `提供每日微博热搜榜单的历史记录查询，追踪热点事件和话题。`,
     icons: {
       'icon': 'https://img.icons8.com/stickers/100/000000/weibo.png',
     }
