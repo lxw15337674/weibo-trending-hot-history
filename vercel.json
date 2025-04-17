@@ -1,7 +1,8 @@
 {
     "functions": {
         "pages/**/*": {
-            "maxDuration": 60
-        }
+            "maxDuration": 60,
+            "excludeFiles": "{api,archives}/**"
+        }     
     }
 }
