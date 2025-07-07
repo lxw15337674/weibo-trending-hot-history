@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
 import { numberWithUnit } from '@/lib/utils';
+import { generateHotSearchMetadata } from '@/lib/metadata';
 
 interface HotsProps {
   params: { date: string };
@@ -48,30 +49,29 @@ export async function generateMetadata(
   const date = params.date;
   const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://weibo-trending-hot-history.vercel.app';
   const pageUrl = `${baseUrl}/hots/${date}`;
+  const formattedDate = dayjs(date).format('YYYY年MM月DD日');
 
-  // 尝试获取当天数据来生成更准确的描述
-  let topTopics = '';
+  // 获取当天热搜数据来生成动态metadata
+  let dynamicMetadata;
   try {
     const data = await getData(date);
-    const top3 = data.slice(0, 3).map(item => item.title).join('、');
-    if (top3) {
-      topTopics = `，当日热门话题包括：${top3}等`;
-    }
+    dynamicMetadata = generateHotSearchMetadata(date, data);
   } catch (error) {
-    // 忽略错误，使用默认描述
+    // 如果获取数据失败，使用默认metadata
+    dynamicMetadata = {
+      title: `${date} 微博热搜榜单`,
+      description: `查看${formattedDate}的微博热搜榜单，了解当日热点事件和社会话题。`,
+      keywords: [`微博热搜 ${date}`, `${formattedDate}热搜`, '微博榜单', '热点事件', '社会热点']
+    };
   }
 
-  const formattedDate = dayjs(date).format('YYYY年MM月DD日');
-  const title = `${date} 微博热搜榜 `;
-  const description = `查看${formattedDate}的微博热搜榜单，了解当日热点事件和社会话题${topTopics}。`;
-
   return {
-    title,
-    description,
-    keywords: [`微博热搜 ${date}`, `${formattedDate}热搜`, '微博榜单', '热点事件', '社会热点', `${date}新闻`],
+    title: dynamicMetadata.title,
+    description: dynamicMetadata.description,
+    keywords: dynamicMetadata.keywords,
     openGraph: {
-      title,
-      description,
+      title: dynamicMetadata.title,
+      description: dynamicMetadata.description,
       url: pageUrl,
       type: 'article',
       publishedTime: dayjs(date).toISOString(),
@@ -89,8 +89,8 @@ export async function generateMetadata(
     },
     twitter: {
       card: 'summary_large_image',
-      title,
-      description,
+      title: dynamicMetadata.title,
+      description: dynamicMetadata.description,
       images: [`${baseUrl}/og-image-${date}.png`],
     },
     alternates: {
