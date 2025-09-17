@@ -3,6 +3,7 @@ name: scraping
 on:
   schedule:
     - cron: "0 * * * *"
+  workflow_dispatch:         # 支持手动触发
 
 jobs:
   build:
