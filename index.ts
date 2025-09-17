@@ -2,6 +2,7 @@ import util from 'util';
 import dayjs from 'dayjs';
 import * as cheerio from 'cheerio';
 import _ from 'lodash';
+import { chromium } from 'playwright';
 import { convertToNumber, createArchive, createList, ensureDir, readFile, writeFile } from './utils';
 import { Detail, SavedWeibo, WeiboItem } from './type';
 
@@ -9,6 +10,36 @@ const TRENDING_URL =
   'https://m.weibo.cn/api/container/getIndex?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot';
 const TRENDING_DETAIL_URL = 'https://m.s.weibo.com/topic/detail?q=%s';
 const readmePath = './README.md';
+
+async function fetchTrendingDataWithPlaywright(): Promise<{ ok: number; data: { cards: { card_group: WeiboItem[] }[] } } | null> {
+  let browser;
+  try {
+    browser = await chromium.launch({ headless: true });
+    const context = await browser.newContext({
+      userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1'
+    });
+    const page = await context.newPage();
+    
+    // 访问微博热搜API
+    await page.goto(TRENDING_URL, { waitUntil: 'networkidle' });
+    
+    // 获取页面内容并解析JSON
+    const content = await page.textContent('body');
+    if (!content) {
+      throw new Error('页面内容为空');
+    }
+    
+    const data = JSON.parse(content);
+    return data;
+  } catch (error) {
+    console.error('Playwright 获取数据失败:', error);
+    return null;
+  } finally {
+    if (browser) {
+      await browser.close();
+    }
+  }
+}
 
 function extractNumbers(str?: string | number): number {
   if (!str) return 0;
@@ -89,9 +120,8 @@ export async function createReadme(words: SavedWeibo[]) {
 async function bootstrap() {
   while (RETRY_TIME > 0) {
     try {
-      const res = await fetch(TRENDING_URL);
-      const data = await res.json() as { ok: number; data: { cards: { card_group: WeiboItem[] }[] } };
-      if (data.ok === 1) {
+      const data = await fetchTrendingDataWithPlaywright();
+      if (data && data.ok === 1) {
         const items = data.data.cards[0]?.card_group;
         if (items) {
           const words = await Promise.all(
