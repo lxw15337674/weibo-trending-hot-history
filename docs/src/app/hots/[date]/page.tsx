@@ -10,6 +10,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { DatePicker } from '@/components/DayPicker';
+import { AISearchButton } from '@/components/AISearchButton';
 import { numberWithUnit } from '@/lib/utils';
 import { generateHotSearchMetadata } from '@/lib/metadata';
 
@@ -198,6 +199,7 @@ export default async function Hots({ params: { date }, searchParams: { sort = 'h
         <div className="mx-auto flex max-w-[980px] flex-col gap-2 py-4">
           {data.sort((a, b) => (Number(b[sort as keyof SavedWeibo]) ?? 0) - (Number(a[sort as keyof SavedWeibo]) ?? 0)).map((item: SavedWeibo, index) => {
             const url = `https://s.weibo.com/weibo?q=%23${item.title}%23`;
+
             return (
               <a
                 href={url}
@@ -206,16 +208,19 @@ export default async function Hots({ params: { date }, searchParams: { sort = 'h
                 rel="noopener noreferrer"
                 aria-label={`查看微博话题：${item.title}`}
               >
-                <Card className="cursor-pointer hover:bg-muted/50">
+                <Card className="cursor-pointer hover:bg-muted/50 relative">
                   <CardHeader>
+                    <div className="absolute top-4 right-4">
+                      <AISearchButton title={item.title} />
+                    </div>
                     <CardTitle>
-                      <div className="flex gap-2">
+                      <div className="flex gap-2 pr-20">
                         <h2 className="text-xl">
                           <span className="sr-only">第{index + 1}名：</span>
                           {item.title}
                         </h2>
                         <div className="flex gap-2 items-center flex-shrink-0 flex-wrap max-w-[60%]">
-                          {item.category && <Badge>{item.category.trim()}</Badge>}
+                          {item.category && <Badge variant="default">{item.category.trim()}</Badge>}
                           {item.ads && <Badge variant="destructive">推广</Badge>}
                           <Badge variant="outline">🔥 {numberWithUnit(item?.hot ?? 0)}</Badge>
                           {item.readCount && <Badge variant="outline">阅读 {numberWithUnit(item.readCount)}</Badge>}
