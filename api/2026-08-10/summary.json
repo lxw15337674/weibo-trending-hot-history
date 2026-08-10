@@ -15,9 +15,20 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%BC%94%E5%91%98%E7%A7%A6%E7%84%B0%E5%8E%BB%E4%B8%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D2%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D0%26c_type%3D31%26cate%3D5001%26realpos%3D1%26dgr%3D0%26band_rank%3D1%26stream_entry_id%3D31%26q%3D%2523%25E6%25BC%2594%25E5%2591%2598%25E7%25A7%25A6%25E7%2584%25B0%25E5%258E%25BB%25E4%25B8%2596%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 3624312,
     "ads": false,
-    "readCount": 88755000,
-    "discussCount": 17000,
-    "origin": 4227
+    "readCount": 120000000,
+    "discussCount": 22000,
+    "origin": 5546
+  },
+  {
+    "title": "白海豚突然大拐弯",
+    "category": "社会",
+    "description": "走出罕见路线！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D1%26c_type%3D31%26cate%3D5001%26realpos%3D2%26dgr%3D0%26band_rank%3D2%26stream_entry_id%3D31%26q%3D%2523%25E7%2599%25BD%25E6%25B5%25B7%25E8%25B1%259A%25E7%25AA%2581%25E7%2584%25B6%25E5%25A4%25A7%25E6%258B%2590%25E5%25BC%25AF%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 3526388,
+    "ads": false,
+    "readCount": 67262000,
+    "discussCount": 10000,
+    "origin": 2544
   },
   {
     "title": "偶像来了 重启回归",
@@ -25,20 +36,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%81%B6%E5%83%8F%E6%9D%A5%E4%BA%86+%E9%87%8D%E5%90%AF%E5%9B%9E%E5%BD%92&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D1%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D1%26pos%3D0%26q%3D%25E5%2581%25B6%25E5%2583%258F%25E6%259D%25A5%25E4%25BA%2586%2520%25E9%2587%258D%25E5%2590%25AF%25E5%259B%259E%25E5%25BD%2592%26display_time%3D1786342811%26pre_seqid%3D178634281120700679151&launchid=10000360-page_H5",
     "hot": 2823312,
     "ads": false,
-    "readCount": 31664000,
-    "discussCount": 11000,
-    "origin": 4198
-  },
-  {
-    "title": "白海豚突然大拐弯",
-    "category": "社会",
-    "description": "走出罕见路线！",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D1%26c_type%3D31%26cate%3D5001%26realpos%3D2%26dgr%3D0%26band_rank%3D2%26stream_entry_id%3D31%26q%3D%2523%25E7%2599%25BD%25E6%25B5%25B7%25E8%25B1%259A%25E7%25AA%2581%25E7%2584%25B6%25E5%25A4%25A7%25E6%258B%2590%25E5%25BC%25AF%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 2261257,
-    "ads": false,
-    "readCount": 25092000,
-    "discussCount": 3000,
-    "origin": 936
+    "readCount": 38704000,
+    "discussCount": 13000,
+    "origin": 4768
   },
   {
     "title": "武汉通报天桥打人事件",
@@ -103,6 +103,17 @@
     "origin": 1267
   },
   {
+    "title": "深圳APEC峰会倒计时100天",
+    "category": "社会",
+    "description": "深圳APEC峰会倒计时100天，我们向世界递出一封邀请函——在中国，在深圳，看见未来！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B7%B1%E5%9C%B3APEC%E5%B3%B0%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D49%26c_type%3D31%26cate%3D5001%26realpos%3D48%26dgr%3D0%26band_rank%3D48%26stream_entry_id%3D31%26q%3D%2523%25E6%25B7%25B1%25E5%259C%25B3APEC%25E5%25B3%25B0%25E4%25BC%259A%25E5%2580%2592%25E8%25AE%25A1%25E6%2597%25B6100%25E5%25A4%25A9%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 1473181,
+    "ads": false,
+    "readCount": 2741000,
+    "discussCount": 669,
+    "origin": 121
+  },
+  {
     "title": "上海变海上",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%8A%E6%B5%B7%E5%8F%98%E6%B5%B7%E4%B8%8A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D2%26pos%3D1%26q%3D%25E4%25B8%258A%25E6%25B5%25B7%25E5%258F%2598%25E6%25B5%25B7%25E4%25B8%258A%26display_time%3D1786342811%26pre_seqid%3D178634281120700679151&launchid=10000360-page_H5",
@@ -111,6 +122,27 @@
     "readCount": 5517000,
     "discussCount": 1665,
     "origin": 678
+  },
+  {
+    "title": "龙餐馆",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%BE%99%E9%A4%90%E9%A6%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D4%26lcate%3D5001%26q%3D%25E9%25BE%2599%25E9%25A4%2590%25E9%25A6%2586%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D3%26band_rank%3D4%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 1240734,
+    "ads": false,
+    "readCount": 1008000,
+    "discussCount": 1172,
+    "origin": 672
+  },
+  {
+    "title": "百花奖红毯",
+    "category": "电影",
+    "description": "2024年8月2日-8月4日，第37届百花奖在四川成都举办。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%99%BE%E8%8A%B1%E5%A5%96%E7%BA%A2%E6%AF%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D5%26lcate%3D5001%26q%3D%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E7%25BA%25A2%25E6%25AF%25AF%26filter_type%3Drealtimehot%26flag%3D2%26c_type%3D31%26cate%3D5001%26pos%3D4%26band_rank%3D5%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 1216904,
+    "ads": false,
+    "readCount": 120000000,
+    "discussCount": 190000,
+    "origin": 2677
   },
   {
     "title": "从热词迭代读懂鲜活中国",
@@ -148,9 +180,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8E%9F%E6%9D%A590%E5%90%8E%E8%BF%99%E4%B9%88%E5%B0%8F%E4%BC%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D5%26c_type%3D31%26cate%3D5001%26realpos%3D5%26dgr%3D0%26band_rank%3D5%26stream_entry_id%3D31%26q%3D%25E5%258E%259F%25E6%259D%25A590%25E5%2590%258E%25E8%25BF%2599%25E4%25B9%2588%25E5%25B0%258F%25E4%25BC%2597%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 1096458,
     "ads": false,
-    "readCount": 898000,
-    "discussCount": 493,
-    "origin": 133
+    "readCount": 5899000,
+    "discussCount": 3018,
+    "origin": 576
   },
   {
     "title": "第一次见有人撸台风羊毛",
@@ -169,9 +201,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%A8%E5%B9%82%E4%BA%94%E7%A9%BF%E7%A5%96%E6%B5%B7%E9%AB%98%E5%AE%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D6%26c_type%3D31%26cate%3D5001%26realpos%3D6%26dgr%3D0%26band_rank%3D6%26stream_entry_id%3D31%26q%3D%2523%25E6%259D%25A8%25E5%25B9%2582%25E4%25BA%2594%25E7%25A9%25BF%25E7%25A5%2596%25E6%25B5%25B7%25E9%25AB%2598%25E5%25AE%259A%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 1023012,
     "ads": false,
-    "readCount": 8196000,
-    "discussCount": 2820,
-    "origin": 895
+    "readCount": 20454000,
+    "discussCount": 9388,
+    "origin": 1707
   },
   {
     "title": "沈腾400亿票房中国影史第一人",
@@ -184,15 +216,25 @@
     "origin": 2263
   },
   {
+    "title": "百花奖好多高定",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BE%E8%8A%B1%E5%A5%96%E5%A5%BD%E5%A4%9A%E9%AB%98%E5%AE%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D39%26c_type%3D31%26cate%3D5001%26realpos%3D38%26dgr%3D0%26band_rank%3D38%26stream_entry_id%3D31%26q%3D%2523%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E5%25A5%25BD%25E5%25A4%259A%25E9%25AB%2598%25E5%25AE%259A%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 846133,
+    "ads": false,
+    "readCount": 12525000,
+    "discussCount": 4127,
+    "origin": 612
+  },
+  {
     "title": "百花奖",
     "category": "电影-华语电影",
     "description": "2026年8月，第38届大众电影百花奖将于北京举办。",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%99%BE%E8%8A%B1%E5%A5%96&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D2%26pos%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D1%26q%3D%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%26dgr%3D0%26display_time%3D1786294255%26pre_seqid%3D17862942557410381618417&launchid=10000360-page_H5",
     "hot": 842155,
     "ads": false,
-    "readCount": 2020000000,
-    "discussCount": 2681000,
-    "origin": 54000
+    "readCount": 2040000000,
+    "discussCount": 2713000,
+    "origin": 55000
   },
   {
     "title": "台风致上海严重内涝",
@@ -200,9 +242,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8F%B0%E9%A3%8E%E8%87%B4%E4%B8%8A%E6%B5%B7%E4%B8%A5%E9%87%8D%E5%86%85%E6%B6%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D8%26c_type%3D31%26cate%3D5001%26realpos%3D7%26dgr%3D0%26band_rank%3D7%26stream_entry_id%3D31%26q%3D%25E5%258F%25B0%25E9%25A3%258E%25E8%2587%25B4%25E4%25B8%258A%25E6%25B5%25B7%25E4%25B8%25A5%25E9%2587%258D%25E5%2586%2585%25E6%25B6%259D%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 815422,
     "ads": false,
-    "readCount": 1539000,
-    "discussCount": 695,
-    "origin": 228
+    "readCount": 4574000,
+    "discussCount": 2046,
+    "origin": 467
   },
   {
     "title": "物业费的欠费原因",
@@ -384,9 +426,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E7%BB%B4%E5%A1%94%E4%B8%8D%E8%AE%A4%E4%B8%BA%E5%92%8C%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%E6%98%AF%E5%BF%85%E8%A6%81%E9%A1%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D9%26c_type%3D31%26cate%3D5001%26realpos%3D8%26dgr%3D0%26band_rank%3D8%26stream_entry_id%3D31%26q%3D%2523%25E9%2598%25BF%25E7%25BB%25B4%25E5%25A1%2594%25E4%25B8%258D%25E8%25AE%25A4%25E4%25B8%25BA%25E5%2592%258C%25E5%258D%258E%25E4%25B8%25BA%25E5%2590%2588%25E4%25BD%259C%25E6%2598%25AF%25E5%25BF%2585%25E8%25A6%2581%25E9%25A1%25B9%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 460114,
     "ads": false,
-    "readCount": 4833000,
-    "discussCount": 977,
-    "origin": 158
+    "readCount": 9555000,
+    "discussCount": 2616,
+    "origin": 318
   },
   {
     "title": "百花奖造型出图",
@@ -394,9 +436,31 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%99%BE%E8%8A%B1%E5%A5%96%E9%80%A0%E5%9E%8B%E5%87%BA%E5%9B%BE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D10%26c_type%3D31%26cate%3D5001%26realpos%3D9%26dgr%3D0%26band_rank%3D9%26stream_entry_id%3D31%26q%3D%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E9%2580%25A0%25E5%259E%258B%25E5%2587%25BA%25E5%259B%25BE%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 459798,
     "ads": false,
-    "readCount": 4937000,
-    "discussCount": 10000,
-    "origin": 1503
+    "readCount": 13779000,
+    "discussCount": 31000,
+    "origin": 2056
+  },
+  {
+    "title": "Ning爆料Bin彻底不打了",
+    "category": "游戏",
+    "description": "宁王爆料Bin要彻底不打了！道心破碎心理出问题了，圣枪哥成压死骆驼最后稻草",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Ning%E7%88%86%E6%96%99Bin%E5%BD%BB%E5%BA%95%E4%B8%8D%E6%89%93%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D11%26c_type%3D31%26cate%3D5001%26realpos%3D10%26dgr%3D0%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%2523Ning%25E7%2588%2586%25E6%2596%2599Bin%25E5%25BD%25BB%25E5%25BA%2595%25E4%25B8%258D%25E6%2589%2593%25E4%25BA%2586%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 440136,
+    "ads": false,
+    "readCount": 17511000,
+    "discussCount": 1622,
+    "origin": 267
+  },
+  {
+    "title": "多位大疆员工离职后创业成功",
+    "category": "互联网",
+    "description": "8月10日，宇树科技正式启动科创板申购，有关“大疆错失宇树”的话题登顶微博热搜。证券时报报道称，宇树科技创始人曾短暂入职大疆，不久后辞职创业。据了解，王兴兴、陶冶、王雷等多位知名企业家曾为大疆员工，离职后均创业成功。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%9A%E4%BD%8D%E5%A4%A7%E7%96%86%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%90%8E%E5%88%9B%E4%B8%9A%E6%88%90%E5%8A%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D9%26lcate%3D5001%26q%3D%2523%25E5%25A4%259A%25E4%25BD%258D%25E5%25A4%25A7%25E7%2596%2586%25E5%2591%2598%25E5%25B7%25A5%25E7%25A6%25BB%25E8%2581%258C%25E5%2590%258E%25E5%2588%259B%25E4%25B8%259A%25E6%2588%2590%25E5%258A%259F%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D9%26band_rank%3D9%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 440066,
+    "ads": false,
+    "readCount": 5934000,
+    "discussCount": 651,
+    "origin": 164
   },
   {
     "title": "马嘉祺严浩翔男人和男孩的区别",
@@ -409,6 +473,38 @@
     "origin": 485
   },
   {
+    "title": "寿司郎误将已付款顾客当逃单报警",
+    "category": "社会",
+    "description": "8月8日，广州，有消费者反映，在寿司郎（萝岗万达店）消费后被商家当成逃单报警。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AF%BF%E5%8F%B8%E9%83%8E%E8%AF%AF%E5%B0%86%E5%B7%B2%E4%BB%98%E6%AC%BE%E9%A1%BE%E5%AE%A2%E5%BD%93%E9%80%83%E5%8D%95%E6%8A%A5%E8%AD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D12%26c_type%3D31%26cate%3D5001%26realpos%3D11%26dgr%3D0%26band_rank%3D11%26stream_entry_id%3D31%26q%3D%2523%25E5%25AF%25BF%25E5%258F%25B8%25E9%2583%258E%25E8%25AF%25AF%25E5%25B0%2586%25E5%25B7%25B2%25E4%25BB%2598%25E6%25AC%25BE%25E9%25A1%25BE%25E5%25AE%25A2%25E5%25BD%2593%25E9%2580%2583%25E5%258D%2595%25E6%258A%25A5%25E8%25AD%25A6%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 432793,
+    "ads": false,
+    "readCount": 19290000,
+    "discussCount": 1467,
+    "origin": 341
+  },
+  {
+    "title": "泰国被接机女生疑遭带走",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B3%B0%E5%9B%BD%E8%A2%AB%E6%8E%A5%E6%9C%BA%E5%A5%B3%E7%94%9F%E7%96%91%E9%81%AD%E5%B8%A6%E8%B5%B0&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D11%26lcate%3D5001%26q%3D%25E6%25B3%25B0%25E5%259B%25BD%25E8%25A2%25AB%25E6%258E%25A5%25E6%259C%25BA%25E5%25A5%25B3%25E7%2594%259F%25E7%2596%2591%25E9%2581%25AD%25E5%25B8%25A6%25E8%25B5%25B0%26filter_type%3Drealtimehot%26flag%3D2%26c_type%3D31%26cate%3D5001%26pos%3D11%26band_rank%3D11%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 428267,
+    "ads": false,
+    "readCount": 6791000,
+    "discussCount": 1280,
+    "origin": 387
+  },
+  {
+    "title": "女孩南太行失联14天后遗体被找到",
+    "category": "社会",
+    "description": "8月10日，22岁女子程某圆独闯南太行已失联14天。当日下午，极目新闻记者从现场救援人员处获悉，程某圆的遗体已找到。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A5%B3%E5%AD%A9%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E8%81%9414%E5%A4%A9%E5%90%8E%E9%81%97%E4%BD%93%E8%A2%AB%E6%89%BE%E5%88%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D13%26lcate%3D5001%26q%3D%2523%25E5%25A5%25B3%25E5%25AD%25A9%25E5%258D%2597%25E5%25A4%25AA%25E8%25A1%258C%25E5%25A4%25B1%25E8%2581%259414%25E5%25A4%25A9%25E5%2590%258E%25E9%2581%2597%25E4%25BD%2593%25E8%25A2%25AB%25E6%2589%25BE%25E5%2588%25B0%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D13%26band_rank%3D13%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 421788,
+    "ads": false,
+    "readCount": 8397000,
+    "discussCount": 1269,
+    "origin": 321
+  },
+  {
     "title": "沈腾 影帝",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B2%88%E8%85%BE+%E5%BD%B1%E5%B8%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26flag%3D2%26pos%3D4%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D4%26q%3D%25E6%25B2%2588%25E8%2585%25BE%2520%25E5%25BD%25B1%25E5%25B8%259D%26dgr%3D0%26display_time%3D1786294255%26pre_seqid%3D17862942557410381618417&launchid=10000360-page_H5",
@@ -417,6 +513,38 @@
     "readCount": 51446000,
     "discussCount": 20000,
     "origin": 6057
+  },
+  {
+    "title": "短剧女演员百花奖造型",
+    "category": "明星",
+    "description": "短剧🌸百花奖造型",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E7%99%BE%E8%8A%B1%E5%A5%96%E9%80%A0%E5%9E%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D14%26lcate%3D5001%26q%3D%2523%25E7%259F%25AD%25E5%2589%25A7%25E5%25A5%25B3%25E6%25BC%2594%25E5%2591%2598%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E9%2580%25A0%25E5%259E%258B%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D14%26band_rank%3D14%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 415892,
+    "ads": false,
+    "readCount": 4075000,
+    "discussCount": 647,
+    "origin": 173
+  },
+  {
+    "title": "迪丽热巴曾靠玉米茶叶蛋熬过追梦期",
+    "category": "社会",
+    "description": "迪丽热巴曾在采访中谈自己的经历。迪丽热巴说她曾靠玉米茶叶蛋熬过追梦期。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9B%BE%E9%9D%A0%E7%8E%89%E7%B1%B3%E8%8C%B6%E5%8F%B6%E8%9B%8B%E7%86%AC%E8%BF%87%E8%BF%BD%E6%A2%A6%E6%9C%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D19%26c_type%3D31%26cate%3D5001%26realpos%3D18%26dgr%3D0%26band_rank%3D18%26stream_entry_id%3D31%26q%3D%2523%25E8%25BF%25AA%25E4%25B8%25BD%25E7%2583%25AD%25E5%25B7%25B4%25E6%259B%25BE%25E9%259D%25A0%25E7%258E%2589%25E7%25B1%25B3%25E8%258C%25B6%25E5%258F%25B6%25E8%259B%258B%25E7%2586%25AC%25E8%25BF%2587%25E8%25BF%25BD%25E6%25A2%25A6%25E6%259C%259F%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 411784,
+    "ads": false,
+    "readCount": 15188000,
+    "discussCount": 3560,
+    "origin": 804
+  },
+  {
+    "title": "费大厨撤下全国小炒肉大王称号",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B4%B9%E5%A4%A7%E5%8E%A8%E6%92%A4%E4%B8%8B%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E7%A7%B0%E5%8F%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D13%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D13%26pos%3D14%26q%3D%2523%25E8%25B4%25B9%25E5%25A4%25A7%25E5%258E%25A8%25E6%2592%25A4%25E4%25B8%258B%25E5%2585%25A8%25E5%259B%25BD%25E5%25B0%258F%25E7%2582%2592%25E8%2582%2589%25E5%25A4%25A7%25E7%258E%258B%25E7%25A7%25B0%25E5%258F%25B7%2523%26display_time%3D1786342811%26pre_seqid%3D178634281120700679151&launchid=10000360-page_H5",
+    "hot": 409949,
+    "ads": false,
+    "readCount": 31376000,
+    "discussCount": 4272,
+    "origin": 996
   },
   {
     "title": "台风天上海打工人等通知",
@@ -439,26 +567,24 @@
     "origin": 142
   },
   {
-    "title": "Ning爆料Bin彻底不打了",
-    "category": "游戏",
-    "description": "宁王爆料Bin要彻底不打了！道心破碎心理出问题了，圣枪哥成压死骆驼最后稻草",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Ning%E7%88%86%E6%96%99Bin%E5%BD%BB%E5%BA%95%E4%B8%8D%E6%89%93%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D11%26c_type%3D31%26cate%3D5001%26realpos%3D10%26dgr%3D0%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%2523Ning%25E7%2588%2586%25E6%2596%2599Bin%25E5%25BD%25BB%25E5%25BA%2595%25E4%25B8%258D%25E6%2589%2593%25E4%25BA%2586%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 400376,
+    "title": "爆米花冰淇淋追剧新搭子",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%88%86%E7%B1%B3%E8%8A%B1%E5%86%B0%E6%B7%87%E6%B7%8B%E8%BF%BD%E5%89%A7%E6%96%B0%E6%90%AD%E5%AD%90%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D17%26lcate%3D5001%26q%3D%2523%25E7%2588%2586%25E7%25B1%25B3%25E8%258A%25B1%25E5%2586%25B0%25E6%25B7%2587%25E6%25B7%258B%25E8%25BF%25BD%25E5%2589%25A7%25E6%2596%25B0%25E6%2590%25AD%25E5%25AD%2590%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D17%26band_rank%3D17%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 404371,
     "ads": false,
-    "readCount": 9816000,
-    "discussCount": 927,
-    "origin": 138
+    "readCount": 1328000,
+    "discussCount": 21000,
+    "origin": 224
   },
   {
-    "title": "寿司郎误将已付款顾客当逃单报警",
-    "category": "社会",
-    "description": "8月8日，广州，有消费者反映，在寿司郎（萝岗万达店）消费后被商家当成逃单报警。",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AF%BF%E5%8F%B8%E9%83%8E%E8%AF%AF%E5%B0%86%E5%B7%B2%E4%BB%98%E6%AC%BE%E9%A1%BE%E5%AE%A2%E5%BD%93%E9%80%83%E5%8D%95%E6%8A%A5%E8%AD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D12%26c_type%3D31%26cate%3D5001%26realpos%3D11%26dgr%3D0%26band_rank%3D11%26stream_entry_id%3D31%26q%3D%2523%25E5%25AF%25BF%25E5%258F%25B8%25E9%2583%258E%25E8%25AF%25AF%25E5%25B0%2586%25E5%25B7%25B2%25E4%25BB%2598%25E6%25AC%25BE%25E9%25A1%25BE%25E5%25AE%25A2%25E5%25BD%2593%25E9%2580%2583%25E5%258D%2595%25E6%258A%25A5%25E8%25AD%25A6%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 398529,
+    "title": "第一批用AI租房的受益者出现了",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D18%26c_type%3D31%26cate%3D5001%26realpos%3D17%26dgr%3D0%26band_rank%3D17%26stream_entry_id%3D31%26q%3D%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E7%2594%25A8AI%25E7%25A7%259F%25E6%2588%25BF%25E7%259A%2584%25E5%258F%2597%25E7%259B%258A%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 396408,
     "ads": false,
-    "readCount": 5315000,
-    "discussCount": 600,
-    "origin": 161
+    "readCount": 3209000,
+    "discussCount": 754,
+    "origin": 138
   },
   {
     "title": "迪丽热巴拍照被认出仓皇跑到车上",
@@ -467,9 +593,19 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8B%8D%E7%85%A7%E8%A2%AB%E8%AE%A4%E5%87%BA%E4%BB%93%E7%9A%87%E8%B7%91%E5%88%B0%E8%BD%A6%E4%B8%8A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D11%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D11%26pos%3D12%26q%3D%2523%25E8%25BF%25AA%25E4%25B8%25BD%25E7%2583%25AD%25E5%25B7%25B4%25E6%258B%258D%25E7%2585%25A7%25E8%25A2%25AB%25E8%25AE%25A4%25E5%2587%25BA%25E4%25BB%2593%25E7%259A%2587%25E8%25B7%2591%25E5%2588%25B0%25E8%25BD%25A6%25E4%25B8%258A%2523%26display_time%3D1786342811%26pre_seqid%3D178634281120700679151&launchid=10000360-page_H5",
     "hot": 396244,
     "ads": false,
-    "readCount": 23459000,
-    "discussCount": 4806,
-    "origin": 1336
+    "readCount": 31011000,
+    "discussCount": 6303,
+    "origin": 1611
+  },
+  {
+    "title": "韩国人吃泡菜量大降",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%90%83%E6%B3%A1%E8%8F%9C%E9%87%8F%E5%A4%A7%E9%99%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D22%26c_type%3D31%26cate%3D5001%26realpos%3D21%26dgr%3D0%26band_rank%3D21%26stream_entry_id%3D31%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E4%25BA%25BA%25E5%2590%2583%25E6%25B3%25A1%25E8%258F%259C%25E9%2587%258F%25E5%25A4%25A7%25E9%2599%258D%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 392110,
+    "ads": false,
+    "readCount": 5419000,
+    "discussCount": 467,
+    "origin": 90
   },
   {
     "title": "立秋后突然就不热了",
@@ -477,9 +613,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%AB%8B%E7%A7%8B%E5%90%8E%E7%AA%81%E7%84%B6%E5%B0%B1%E4%B8%8D%E7%83%AD%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D14%26c_type%3D31%26cate%3D5001%26realpos%3D13%26dgr%3D0%26band_rank%3D13%26stream_entry_id%3D31%26q%3D%25E7%25AB%258B%25E7%25A7%258B%25E5%2590%258E%25E7%25AA%2581%25E7%2584%25B6%25E5%25B0%25B1%25E4%25B8%258D%25E7%2583%25AD%25E4%25BA%2586%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 390712,
     "ads": false,
-    "readCount": 1475000,
-    "discussCount": 1126,
-    "origin": 544
+    "readCount": 4499000,
+    "discussCount": 3042,
+    "origin": 1001
   },
   {
     "title": "无锡 内涝",
@@ -487,29 +623,29 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%97%A0%E9%94%A1+%E5%86%85%E6%B6%9D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D15%26c_type%3D31%26cate%3D5001%26realpos%3D14%26dgr%3D0%26band_rank%3D14%26stream_entry_id%3D31%26q%3D%25E6%2597%25A0%25E9%2594%25A1%2520%25E5%2586%2585%25E6%25B6%259D%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 388098,
     "ads": false,
-    "readCount": 5103000,
-    "discussCount": 1995,
-    "origin": 538
-  },
-  {
-    "title": "费大厨撤下全国小炒肉大王称号",
-    "category": "社会",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B4%B9%E5%A4%A7%E5%8E%A8%E6%92%A4%E4%B8%8B%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E7%A7%B0%E5%8F%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D13%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D13%26pos%3D14%26q%3D%2523%25E8%25B4%25B9%25E5%25A4%25A7%25E5%258E%25A8%25E6%2592%25A4%25E4%25B8%258B%25E5%2585%25A8%25E5%259B%25BD%25E5%25B0%258F%25E7%2582%2592%25E8%2582%2589%25E5%25A4%25A7%25E7%258E%258B%25E7%25A7%25B0%25E5%258F%25B7%2523%26display_time%3D1786342811%26pre_seqid%3D178634281120700679151&launchid=10000360-page_H5",
-    "hot": 386148,
-    "ads": false,
-    "readCount": 20745000,
-    "discussCount": 3164,
-    "origin": 846
+    "readCount": 6596000,
+    "discussCount": 2717,
+    "origin": 609
   },
   {
     "title": "孔雪儿自曝拒绝浪姐邀请",
     "category": "综艺",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%AD%94%E9%9B%AA%E5%84%BF%E8%87%AA%E6%9B%9D%E6%8B%92%E7%BB%9D%E6%B5%AA%E5%A7%90%E9%82%80%E8%AF%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D17%26c_type%3D31%26cate%3D5001%26realpos%3D16%26dgr%3D0%26band_rank%3D16%26stream_entry_id%3D31%26q%3D%2523%25E5%25AD%2594%25E9%259B%25AA%25E5%2584%25BF%25E8%2587%25AA%25E6%259B%259D%25E6%258B%2592%25E7%25BB%259D%25E6%25B5%25AA%25E5%25A7%2590%25E9%2582%2580%25E8%25AF%25B7%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 383866,
+    "hot": 385666,
     "ads": false,
-    "readCount": 6429000,
-    "discussCount": 741,
-    "origin": 169
+    "readCount": 21756000,
+    "discussCount": 2544,
+    "origin": 450
+  },
+  {
+    "title": "果然金饰样式还是复古的好",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9E%9C%E7%84%B6%E9%87%91%E9%A5%B0%E6%A0%B7%E5%BC%8F%E8%BF%98%E6%98%AF%E5%A4%8D%E5%8F%A4%E7%9A%84%E5%A5%BD&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D23%26lcate%3D5001%26q%3D%25E6%259E%259C%25E7%2584%25B6%25E9%2587%2591%25E9%25A5%25B0%25E6%25A0%25B7%25E5%25BC%258F%25E8%25BF%2598%25E6%2598%25AF%25E5%25A4%258D%25E5%258F%25A4%25E7%259A%2584%25E5%25A5%25BD%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D23%26band_rank%3D23%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 383772,
+    "ads": false,
+    "readCount": 20652000,
+    "discussCount": 349,
+    "origin": 152
   },
   {
     "title": "武汉天桥打人 以暴制暴",
@@ -522,25 +658,14 @@
     "origin": 230
   },
   {
-    "title": "第一批用AI租房的受益者出现了",
-    "category": "暂无",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D18%26c_type%3D31%26cate%3D5001%26realpos%3D17%26dgr%3D0%26band_rank%3D17%26stream_entry_id%3D31%26q%3D%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E7%2594%25A8AI%25E7%25A7%259F%25E6%2588%25BF%25E7%259A%2584%25E5%258F%2597%25E7%259B%258A%25E8%2580%2585%25E5%2587%25BA%25E7%258E%25B0%25E4%25BA%2586%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 380465,
+    "title": "百花奖闭幕式节目单",
+    "category": "电影-华语电影",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E8%8A%82%E7%9B%AE%E5%8D%95&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D24%26lcate%3D5001%26q%3D%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E9%2597%25AD%25E5%25B9%2595%25E5%25BC%258F%25E8%258A%2582%25E7%259B%25AE%25E5%258D%2595%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D24%26band_rank%3D24%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 379471,
     "ads": false,
-    "readCount": 1382000,
-    "discussCount": 503,
-    "origin": 99
-  },
-  {
-    "title": "迪丽热巴曾靠玉米茶叶蛋熬过追梦期",
-    "category": "社会",
-    "description": "迪丽热巴曾在采访中谈自己的经历。迪丽热巴说她曾靠玉米茶叶蛋熬过追梦期。",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9B%BE%E9%9D%A0%E7%8E%89%E7%B1%B3%E8%8C%B6%E5%8F%B6%E8%9B%8B%E7%86%AC%E8%BF%87%E8%BF%BD%E6%A2%A6%E6%9C%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D19%26c_type%3D31%26cate%3D5001%26realpos%3D18%26dgr%3D0%26band_rank%3D18%26stream_entry_id%3D31%26q%3D%2523%25E8%25BF%25AA%25E4%25B8%25BD%25E7%2583%25AD%25E5%25B7%25B4%25E6%259B%25BE%25E9%259D%25A0%25E7%258E%2589%25E7%25B1%25B3%25E8%258C%25B6%25E5%258F%25B6%25E8%259B%258B%25E7%2586%25AC%25E8%25BF%2587%25E8%25BF%25BD%25E6%25A2%25A6%25E6%259C%259F%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 377403,
-    "ads": false,
-    "readCount": 2222000,
-    "discussCount": 685,
-    "origin": 162
+    "readCount": 89430000,
+    "discussCount": 106000,
+    "origin": 1156
   },
   {
     "title": "眼见为实的时代已然过去",
@@ -558,9 +683,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E7%9A%84%E6%98%A8%E6%97%A5%E6%9C%AA%E5%BF%85%E4%B8%8D%E4%BC%9A%E6%98%AF%E6%97%A5%E6%9C%AC%E7%9A%84%E6%98%8E%E5%A4%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D21%26c_type%3D31%26cate%3D5001%26realpos%3D20%26dgr%3D0%26band_rank%3D20%26stream_entry_id%3D31%26q%3D%2523%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E7%259A%2584%25E6%2598%25A8%25E6%2597%25A5%25E6%259C%25AA%25E5%25BF%2585%25E4%25B8%258D%25E4%25BC%259A%25E6%2598%25AF%25E6%2597%25A5%25E6%259C%25AC%25E7%259A%2584%25E6%2598%258E%25E5%25A4%25A9%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 368310,
     "ads": false,
-    "readCount": 4370000,
-    "discussCount": 943,
-    "origin": 80
+    "readCount": 8110000,
+    "discussCount": 1371,
+    "origin": 135
   },
   {
     "title": "疑似高智adhd在评论区泄露天才经验",
@@ -571,16 +696,6 @@
     "readCount": 1078000,
     "discussCount": 282,
     "origin": 94
-  },
-  {
-    "title": "韩国人吃泡菜量大降",
-    "category": "社会",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%90%83%E6%B3%A1%E8%8F%9C%E9%87%8F%E5%A4%A7%E9%99%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D22%26c_type%3D31%26cate%3D5001%26realpos%3D21%26dgr%3D0%26band_rank%3D21%26stream_entry_id%3D31%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E4%25BA%25BA%25E5%2590%2583%25E6%25B3%25A1%25E8%258F%259C%25E9%2587%258F%25E5%25A4%25A7%25E9%2599%258D%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 367383,
-    "ads": false,
-    "readCount": 915000,
-    "discussCount": 98,
-    "origin": 27
   },
   {
     "title": "上海徐家汇出现特大暴雨",
@@ -599,9 +714,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D24%26c_type%3D31%26cate%3D5001%26realpos%3D23%26dgr%3D0%26band_rank%3D23%26stream_entry_id%3D31%26q%3D%2523%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E9%2597%25AD%25E5%25B9%2595%25E5%25BC%258F%25E5%2598%2589%25E5%25AE%25BE%25E9%2598%25B5%25E5%25AE%25B9%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 361350,
     "ads": false,
-    "readCount": 6665000,
-    "discussCount": 1894,
-    "origin": 250
+    "readCount": 12146000,
+    "discussCount": 4254,
+    "origin": 316
   },
   {
     "title": "白海豚",
@@ -609,9 +724,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%99%BD%E6%B5%B7%E8%B1%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D30%26flag%3D1%26pos%3D30%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E7%2599%25BD%25E6%25B5%25B7%25E8%25B1%259A%26realpos%3D30%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1786318962%26pre_seqid%3D178631896284200707143&launchid=10000360-page_H5",
     "hot": 353744,
     "ads": false,
-    "readCount": 33771000,
-    "discussCount": 24000,
-    "origin": 5372
+    "readCount": 36550000,
+    "discussCount": 25000,
+    "origin": 5522
   },
   {
     "title": "胚胎案朱女士解释推迟离婚原因",
@@ -666,6 +781,58 @@
     "origin": 34
   },
   {
+    "title": "赌博的成瘾性",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%B5%8C%E5%8D%9A%E7%9A%84%E6%88%90%E7%98%BE%E6%80%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D26%26lcate%3D5001%26q%3D%25E8%25B5%258C%25E5%258D%259A%25E7%259A%2584%25E6%2588%2590%25E7%2598%25BE%25E6%2580%25A7%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D26%26band_rank%3D26%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 336252,
+    "ads": false,
+    "readCount": 847000,
+    "discussCount": 236,
+    "origin": 72
+  },
+  {
+    "title": "杨幂美貌比钻石更闪耀",
+    "category": "明星-内地",
+    "description": "美死了幂幂姐",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9D%A8%E5%B9%82%E7%BE%8E%E8%B2%8C%E6%AF%94%E9%92%BB%E7%9F%B3%E6%9B%B4%E9%97%AA%E8%80%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D27%26lcate%3D5001%26q%3D%2523%25E6%259D%25A8%25E5%25B9%2582%25E7%25BE%258E%25E8%25B2%258C%25E6%25AF%2594%25E9%2592%25BB%25E7%259F%25B3%25E6%259B%25B4%25E9%2597%25AA%25E8%2580%2580%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D27%26band_rank%3D27%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 336132,
+    "ads": false,
+    "readCount": 1381000,
+    "discussCount": 1182,
+    "origin": 254
+  },
+  {
+    "title": "王曼昱 头号种子出战",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%8E%8B%E6%9B%BC%E6%98%B1+%E5%A4%B4%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%87%BA%E6%88%98&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D28%26lcate%3D5001%26q%3D%25E7%258E%258B%25E6%259B%25BC%25E6%2598%25B1%2520%25E5%25A4%25B4%25E5%258F%25B7%25E7%25A7%258D%25E5%25AD%2590%25E5%2587%25BA%25E6%2588%2598%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26cate%3D5001%26pos%3D28%26band_rank%3D28%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 336070,
+    "ads": false,
+    "readCount": 1418000,
+    "discussCount": 836,
+    "origin": 356
+  },
+  {
+    "title": "韩国女性怒斥AA制结婚",
+    "category": "社会",
+    "description": "另据环球时报此前报道，韩国超一半的未婚年轻人对恋爱毫无兴趣，其中女性的冷淡程度更是高居五国之首。年轻人正集体进入“无恋爱社会”。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%80%A7%E6%80%92%E6%96%A5AA%E5%88%B6%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D29%26lcate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E5%25A5%25B3%25E6%2580%25A7%25E6%2580%2592%25E6%2596%25A5AA%25E5%2588%25B6%25E7%25BB%2593%25E5%25A9%259A%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D29%26band_rank%3D29%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 335792,
+    "ads": false,
+    "readCount": 4822000,
+    "discussCount": 565,
+    "origin": 101
+  },
+  {
+    "title": "炸鸡店爆单 店员呼吸性碱中毒",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%82%B8%E9%B8%A1%E5%BA%97%E7%88%86%E5%8D%95+%E5%BA%97%E5%91%98%E5%91%BC%E5%90%B8%E6%80%A7%E7%A2%B1%E4%B8%AD%E6%AF%92&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D30%26lcate%3D5001%26q%3D%25E7%2582%25B8%25E9%25B8%25A1%25E5%25BA%2597%25E7%2588%2586%25E5%258D%2595%2520%25E5%25BA%2597%25E5%2591%2598%25E5%2591%25BC%25E5%2590%25B8%25E6%2580%25A7%25E7%25A2%25B1%25E4%25B8%25AD%25E6%25AF%2592%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D30%26band_rank%3D30%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 335643,
+    "ads": false,
+    "readCount": 94000,
+    "discussCount": 49,
+    "origin": 21
+  },
+  {
     "title": "电影惊蛰无声",
     "category": "电影-华语电影",
     "description": "张艺谋导演新作《惊蛰无声》正在热映中。影片由易烊千玺、朱一龙领衔主演，宋佳领衔主演，雷佳音、杨幂主演，张译友情出演，刘诗诗特别出演，刘耀文特别出演，由国家安全部指导创作，也是我国首部聚焦当代国家安全题材的影片。",
@@ -675,6 +842,26 @@
     "readCount": 1530000000,
     "discussCount": 14795000,
     "origin": 90000
+  },
+  {
+    "title": "我的洞洞鞋不能沾水",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%91%E7%9A%84%E6%B4%9E%E6%B4%9E%E9%9E%8B%E4%B8%8D%E8%83%BD%E6%B2%BE%E6%B0%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D45%26c_type%3D31%26cate%3D5001%26realpos%3D44%26dgr%3D0%26band_rank%3D44%26stream_entry_id%3D31%26q%3D%25E6%2588%2591%25E7%259A%2584%25E6%25B4%259E%25E6%25B4%259E%25E9%259E%258B%25E4%25B8%258D%25E8%2583%25BD%25E6%25B2%25BE%25E6%25B0%25B4%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 335580,
+    "ads": false,
+    "readCount": 2960000,
+    "discussCount": 869,
+    "origin": 306
+  },
+  {
+    "title": "易烊千玺宝格丽胸针",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%83%B8%E9%92%88%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D32%26lcate%3D5001%26q%3D%2523%25E6%2598%2593%25E7%2583%258A%25E5%258D%2583%25E7%258E%25BA%25E5%25AE%259D%25E6%25A0%25BC%25E4%25B8%25BD%25E8%2583%25B8%25E9%2592%2588%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D32%26band_rank%3D32%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 335430,
+    "ads": false,
+    "readCount": 4141000,
+    "discussCount": 3798,
+    "origin": 277
   },
   {
     "title": "我们来了2026嘉宾",
@@ -724,9 +911,19 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%88%98%E8%80%80%E6%96%87%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%8C%E5%A5%A2%E9%80%A0%E5%9E%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D31%26c_type%3D31%26cate%3D5001%26realpos%3D30%26dgr%3D0%26band_rank%3D30%26stream_entry_id%3D31%26q%3D%2523%25E5%2588%2598%25E8%2580%2580%25E6%2596%2587%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E5%258F%258C%25E5%25A5%25A2%25E9%2580%25A0%25E5%259E%258B%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 326594,
     "ads": false,
-    "readCount": 2947000,
-    "discussCount": 2963,
-    "origin": 395
+    "readCount": 11268000,
+    "discussCount": 15000,
+    "origin": 945
+  },
+  {
+    "title": "时代少年团自己排行程",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%87%AA%E5%B7%B1%E6%8E%92%E8%A1%8C%E7%A8%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D34%26lcate%3D5001%26q%3D%2523%25E6%2597%25B6%25E4%25BB%25A3%25E5%25B0%2591%25E5%25B9%25B4%25E5%259B%25A2%25E8%2587%25AA%25E5%25B7%25B1%25E6%258E%2592%25E8%25A1%258C%25E7%25A8%258B%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D34%26band_rank%3D34%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 322806,
+    "ads": false,
+    "readCount": 2377000,
+    "discussCount": 486,
+    "origin": 331
   },
   {
     "title": "业内称成毅被投资人疯抢",
@@ -822,6 +1019,16 @@
     "origin": 1195
   },
   {
+    "title": "上海台风未发统一停工通知",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%E6%9C%AA%E5%8F%91%E7%BB%9F%E4%B8%80%E5%81%9C%E5%B7%A5%E9%80%9A%E7%9F%A5&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D35%26lcate%3D5001%26q%3D%25E4%25B8%258A%25E6%25B5%25B7%25E5%258F%25B0%25E9%25A3%258E%25E6%259C%25AA%25E5%258F%2591%25E7%25BB%259F%25E4%25B8%2580%25E5%2581%259C%25E5%25B7%25A5%25E9%2580%259A%25E7%259F%25A5%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D35%26band_rank%3D35%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 294035,
+    "ads": false,
+    "readCount": 1997000,
+    "discussCount": 327,
+    "origin": 183
+  },
+  {
     "title": "上门女婿出轨女邻居双双被判重婚罪",
     "category": "社会",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%8A%E9%97%A8%E5%A5%B3%E5%A9%BF%E5%87%BA%E8%BD%A8%E5%A5%B3%E9%82%BB%E5%B1%85%E5%8F%8C%E5%8F%8C%E8%A2%AB%E5%88%A4%E9%87%8D%E5%A9%9A%E7%BD%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26band_rank%3D25%26pos%3D26%26q%3D%2523%25E4%25B8%258A%25E9%2597%25A8%25E5%25A5%25B3%25E5%25A9%25BF%25E5%2587%25BA%25E8%25BD%25A8%25E5%25A5%25B3%25E9%2582%25BB%25E5%25B1%2585%25E5%258F%258C%25E5%258F%258C%25E8%25A2%25AB%25E5%2588%25A4%25E9%2587%258D%25E5%25A9%259A%25E7%25BD%25AA%2523%26display_time%3D1786342811%26pre_seqid%3D178634281120700679151&launchid=10000360-page_H5",
@@ -851,6 +1058,16 @@
     "readCount": 24163000,
     "discussCount": 4862,
     "origin": 1030
+  },
+  {
+    "title": "易烊千玺看镜头的那一下",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%9C%8B%E9%95%9C%E5%A4%B4%E7%9A%84%E9%82%A3%E4%B8%80%E4%B8%8B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D36%26lcate%3D5001%26q%3D%25E6%2598%2593%25E7%2583%258A%25E5%258D%2583%25E7%258E%25BA%25E7%259C%258B%25E9%2595%259C%25E5%25A4%25B4%25E7%259A%2584%25E9%2582%25A3%25E4%25B8%2580%25E4%25B8%258B%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D36%26band_rank%3D36%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 291942,
+    "ads": false,
+    "readCount": 1052000,
+    "discussCount": 4939,
+    "origin": 98
   },
   {
     "title": "大疆错失宇树科技数十亿市值",
@@ -918,6 +1135,27 @@
     "origin": 116
   },
   {
+    "title": "看别人做收纳真的很爽",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%9C%8B%E5%88%AB%E4%BA%BA%E5%81%9A%E6%94%B6%E7%BA%B3%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%BD&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D39%26lcate%3D5001%26q%3D%25E7%259C%258B%25E5%2588%25AB%25E4%25BA%25BA%25E5%2581%259A%25E6%2594%25B6%25E7%25BA%25B3%25E7%259C%259F%25E7%259A%2584%25E5%25BE%2588%25E7%2588%25BD%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D39%26band_rank%3D39%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 282522,
+    "ads": false,
+    "readCount": 1194,
+    "discussCount": 10,
+    "origin": 3
+  },
+  {
+    "title": "那英芒果艺统部老大",
+    "category": "综艺-内地综艺",
+    "description": "近日，孙楠透露参加披哥都是那英推荐的，说这节目特好玩，芒果大大小小的音综都是那英的朋友圈!",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%82%A3%E8%8B%B1%E8%8A%92%E6%9E%9C%E8%89%BA%E7%BB%9F%E9%83%A8%E8%80%81%E5%A4%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D40%26lcate%3D5001%26q%3D%2523%25E9%2582%25A3%25E8%258B%25B1%25E8%258A%2592%25E6%259E%259C%25E8%2589%25BA%25E7%25BB%259F%25E9%2583%25A8%25E8%2580%2581%25E5%25A4%25A7%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D40%26band_rank%3D40%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 282500,
+    "ads": false,
+    "readCount": 1035000,
+    "discussCount": 748,
+    "origin": 204
+  },
+  {
     "title": "蔡磊不想做第二个冰桶挑战",
     "category": "社会",
     "description": "蔡磊：只要这套机制在运转，只要数据在积累，就一定会有下一个天才科学家，或者下一个带着大资金的创业者，在这片田里种出解药。",
@@ -927,6 +1165,16 @@
     "readCount": 18119000,
     "discussCount": 1658,
     "origin": 293
+  },
+  {
+    "title": "林志玲4岁儿子正脸",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9E%97%E5%BF%97%E7%8E%B24%E5%B2%81%E5%84%BF%E5%AD%90%E6%AD%A3%E8%84%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D43%26lcate%3D5001%26q%3D%2523%25E6%259E%2597%25E5%25BF%2597%25E7%258E%25B24%25E5%25B2%2581%25E5%2584%25BF%25E5%25AD%2590%25E6%25AD%25A3%25E8%2584%25B8%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D43%26band_rank%3D43%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 278758,
+    "ads": false,
+    "readCount": 4368000,
+    "discussCount": 393,
+    "origin": 70
   },
   {
     "title": "朱锐 炒股亏掉70万积蓄",
@@ -987,16 +1235,6 @@
     "readCount": 31686000,
     "discussCount": 1779,
     "origin": 454
-  },
-  {
-    "title": "百花奖好多高定",
-    "category": "明星",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%99%BE%E8%8A%B1%E5%A5%96%E5%A5%BD%E5%A4%9A%E9%AB%98%E5%AE%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D39%26c_type%3D31%26cate%3D5001%26realpos%3D38%26dgr%3D0%26band_rank%3D38%26stream_entry_id%3D31%26q%3D%2523%25E7%2599%25BE%25E8%258A%25B1%25E5%25A5%2596%25E5%25A5%25BD%25E5%25A4%259A%25E9%25AB%2598%25E5%25AE%259A%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 268618,
-    "ads": false,
-    "readCount": 858000,
-    "discussCount": 103,
-    "origin": 51
   },
   {
     "title": "婴儿快窒息时被小猫救下宝妈发声",
@@ -1994,16 +2232,6 @@
     "origin": 478
   },
   {
-    "title": "我的洞洞鞋不能沾水",
-    "category": "暂无",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%88%91%E7%9A%84%E6%B4%9E%E6%B4%9E%E9%9E%8B%E4%B8%8D%E8%83%BD%E6%B2%BE%E6%B0%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D45%26c_type%3D31%26cate%3D5001%26realpos%3D44%26dgr%3D0%26band_rank%3D44%26stream_entry_id%3D31%26q%3D%25E6%2588%2591%25E7%259A%2584%25E6%25B4%259E%25E6%25B4%259E%25E9%259E%258B%25E4%25B8%258D%25E8%2583%25BD%25E6%25B2%25BE%25E6%25B0%25B4%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 201201,
-    "ads": false,
-    "readCount": 19000,
-    "discussCount": 6,
-    "origin": 5
-  },
-  {
     "title": "白海豚威力有多大具象化了",
     "category": "社会",
     "description": "受台风“白海豚”影响，位于中国第一高楼——上海中心大厦125层的千吨阻尼器出现明显摆动。今天（9日）16时，单边摆幅约50公分左右。当632米的上海中心大厦在强风等极端天气条件下产生摆动时，这座千吨重的阻尼器产生反向运动，以抵消大楼的摆动。",
@@ -2086,6 +2314,16 @@
     "origin": 207
   },
   {
+    "title": "Shanji谈Flandre加入BLG原因",
+    "category": "游戏",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Shanji%E8%B0%88Flandre%E5%8A%A0%E5%85%A5BLG%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D48%26c_type%3D31%26cate%3D5001%26realpos%3D47%26dgr%3D0%26band_rank%3D47%26stream_entry_id%3D31%26q%3D%2523Shanji%25E8%25B0%2588Flandre%25E5%258A%25A0%25E5%2585%25A5BLG%25E5%258E%259F%25E5%259B%25A0%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
+    "hot": 188150,
+    "ads": false,
+    "readCount": 5501000,
+    "discussCount": 497,
+    "origin": 83
+  },
+  {
     "title": "叶倩文宣布喜添新孙",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8F%B6%E5%80%A9%E6%96%87%E5%AE%A3%E5%B8%83%E5%96%9C%E6%B7%BB%E6%96%B0%E5%AD%99&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D25%26flag%3D1%26pos%3D25%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%258F%25B6%25E5%2580%25A9%25E6%2596%2587%25E5%25AE%25A3%25E5%25B8%2583%25E5%2596%259C%25E6%25B7%25BB%25E6%2596%25B0%25E5%25AD%2599%26realpos%3D25%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1786318962%26pre_seqid%3D178631896284200707143&launchid=10000360-page_H5",
@@ -2094,6 +2332,17 @@
     "readCount": 3942000,
     "discussCount": 396,
     "origin": 63
+  },
+  {
+    "title": "DeepSeek回应给人偷偷起外号",
+    "category": "社会",
+    "description": "8月10日，不少网友讨论，DeepSeek会偷偷给人取外号，引发热议。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23DeepSeek%E5%9B%9E%E5%BA%94%E7%BB%99%E4%BA%BA%E5%81%B7%E5%81%B7%E8%B5%B7%E5%A4%96%E5%8F%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D48%26lcate%3D5001%26q%3D%2523DeepSeek%25E5%259B%259E%25E5%25BA%2594%25E7%25BB%2599%25E4%25BA%25BA%25E5%2581%25B7%25E5%2581%25B7%25E8%25B5%25B7%25E5%25A4%2596%25E5%258F%25B7%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D48%26band_rank%3D48%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 185699,
+    "ads": false,
+    "readCount": 718000,
+    "discussCount": 35,
+    "origin": 18
   },
   {
     "title": "周星驰 迪丽热巴真的好美",
@@ -2124,6 +2373,16 @@
     "readCount": 4304000,
     "discussCount": 194,
     "origin": 44
+  },
+  {
+    "title": "钟丽缇林志颖复刻16年前合照",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%92%9F%E4%B8%BD%E7%BC%87%E6%9E%97%E5%BF%97%E9%A2%96%E5%A4%8D%E5%88%BB16%E5%B9%B4%E5%89%8D%E5%90%88%E7%85%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D50%26lcate%3D5001%26q%3D%2523%25E9%2592%259F%25E4%25B8%25BD%25E7%25BC%2587%25E6%259E%2597%25E5%25BF%2597%25E9%25A2%2596%25E5%25A4%258D%25E5%2588%25BB16%25E5%25B9%25B4%25E5%2589%258D%25E5%2590%2588%25E7%2585%25A7%2523%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26cate%3D5001%26pos%3D50%26band_rank%3D50%26dgr%3D0%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 183639,
+    "ads": false,
+    "readCount": 3321000,
+    "discussCount": 309,
+    "origin": 85
   },
   {
     "title": "沈腾金鸡百花华表一个奖都没拿",
@@ -2187,16 +2446,6 @@
     "origin": 66
   },
   {
-    "title": "Shanji谈Flandre加入BLG原因",
-    "category": "游戏",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Shanji%E8%B0%88Flandre%E5%8A%A0%E5%85%A5BLG%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D48%26c_type%3D31%26cate%3D5001%26realpos%3D47%26dgr%3D0%26band_rank%3D47%26stream_entry_id%3D31%26q%3D%2523Shanji%25E8%25B0%2588Flandre%25E5%258A%25A0%25E5%2585%25A5BLG%25E5%258E%259F%25E5%259B%25A0%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 173535,
-    "ads": false,
-    "readCount": 2833000,
-    "discussCount": 408,
-    "origin": 68
-  },
-  {
     "title": "金珉奎公益兵",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E7%8F%89%E5%A5%8E%E5%85%AC%E7%9B%8A%E5%85%B5&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D44%26cate%3D5001%26dgr%3D0%26band_rank%3D45%26stream_entry_id%3D31%26realpos%3D45%26q%3D%25E9%2587%2591%25E7%258F%2589%25E5%25A5%258E%25E5%2585%25AC%25E7%259B%258A%25E5%2585%25B5%26display_time%3D1786337408%26pre_seqid%3D17863374085900221530873&launchid=10000360-page_H5",
@@ -2216,17 +2465,6 @@
     "readCount": 5144000,
     "discussCount": 576,
     "origin": 101
-  },
-  {
-    "title": "深圳APEC峰会倒计时100天",
-    "category": "社会",
-    "description": "深圳APEC峰会倒计时100天，我们向世界递出一封邀请函——在中国，在深圳，看见未来！",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B7%B1%E5%9C%B3APEC%E5%B3%B0%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D49%26c_type%3D31%26cate%3D5001%26realpos%3D48%26dgr%3D0%26band_rank%3D48%26stream_entry_id%3D31%26q%3D%2523%25E6%25B7%25B1%25E5%259C%25B3APEC%25E5%25B3%25B0%25E4%25BC%259A%25E5%2580%2592%25E8%25AE%25A1%25E6%2597%25B6100%25E5%25A4%25A9%2523%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
-    "hot": 168837,
-    "ads": false,
-    "readCount": 977000,
-    "discussCount": 385,
-    "origin": 55
   },
   {
     "title": "朱一龙法拉利老了也是法拉利",
@@ -2570,9 +2808,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E9%A2%86%E4%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%85%9A%E5%BB%BA%E6%80%9D%E6%83%B3%23&stream_entry_id=51&isnewpage=1&extparam=seat%3D1%26pos%3D0%26cate%3D10103%26q%3D%2523%25E6%25B7%25B1%25E5%2585%25A5%25E5%25AD%25A6%25E4%25B9%25A0%25E9%25A2%2586%25E4%25BC%259A%25E4%25B9%25A0%25E8%25BF%2591%25E5%25B9%25B3%25E5%2585%259A%25E5%25BB%25BA%25E6%2580%259D%25E6%2583%25B3%2523%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D51%26c_type%3D51%26display_time%3D1786351784%26pre_seqid%3D17863517841140211821736&launchid=10000360-page_H5",
     "hot": 0,
     "ads": false,
-    "readCount": 21121000,
-    "discussCount": 4162,
-    "origin": 384
+    "readCount": 23525000,
+    "discussCount": 4329,
+    "origin": 400
   },
   {
     "title": "我家家电太有品了",
@@ -2584,5 +2822,16 @@
     "readCount": 15809000,
     "discussCount": 19000,
     "origin": 206
+  },
+  {
+    "title": "开学季数码抄作业",
+    "category": "数码",
+    "description": "8月10日—9月10日，带话题 #开学季数码抄作业# 发布原创图文或视频，分享你的数码选购经验、避坑心得或全家桶搭配方案！",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%80%E5%AD%A6%E5%AD%A3%E6%95%B0%E7%A0%81%E6%8A%84%E4%BD%9C%E4%B8%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26is_ad_pos%3D1%26lcate%3D5001%26q%3D%2523%25E5%25BC%2580%25E5%25AD%25A6%25E5%25AD%25A3%25E6%2595%25B0%25E7%25A0%2581%25E6%258A%2584%25E4%25BD%259C%25E4%25B8%259A%2523%26dgr%3D0%26c_type%3D31%26adid%3D350433%26cate%3D5001%26pos%3D6%26band_rank%3D7%26filter_type%3Drealtimehot%26display_time%3D1786357744%26pre_seqid%3D17863577443600213701084&launchid=10000360-page_H5",
+    "hot": 0,
+    "ads": true,
+    "readCount": 5435000,
+    "discussCount": 2488,
+    "origin": 92
   }
 ]
